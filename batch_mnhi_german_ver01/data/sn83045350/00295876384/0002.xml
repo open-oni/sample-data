@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+ <Description>
+  <MeasurementUnit>inch1200</MeasurementUnit>
+  <sourceImageInformation>
+   <fileName>sn83045350/00295876384/0002.tif</fileName>
+  </sourceImageInformation>
+  <OCRProcessing ID="OCR001">
+   <preProcessingStep>
+    <processingStepDescription>Deskew, crop, paginate</processingStepDescription>
+    <processingSoftware>
+     <softwareCreator>NMT Corporation, La Crosse, WI</softwareCreator>
+     <softwareName>PolishImage</softwareName>
+     <softwareVersion>1.99.05</softwareVersion>
+    </processingSoftware>
+   </preProcessingStep>
+   <ocrProcessingStep>
+    <processingSoftware>
+     <softwareCreator>ABBYY Software LLC</softwareCreator>
+     <softwareName>ABBYY FineReader Engine</softwareName>
+     <softwareVersion>8.04.1162.20</softwareVersion>
+    </processingSoftware>
+   </ocrProcessingStep>
+   <postProcessingStep>
+    <processingSoftware>
+     <softwareCreator>NMT Corporation, La Crosse, WI</softwareCreator>
+     <softwareName>bldalto</softwareName>
+     <softwareVersion>3.1.6</softwareVersion>
+    </processingSoftware>
+   </postProcessingStep>
+  </OCRProcessing>
+ </Description>
+ <Styles>
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Courier-BoldOblique" FONTSIZE="5" FONTTYPE="serif" FONTWIDTH="fixed" ID="F1" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Courier-Oblique" FONTSIZE="3" FONTTYPE="serif" FONTWIDTH="fixed" ID="F2" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Courier-Oblique" FONTSIZE="4" FONTTYPE="serif" FONTWIDTH="fixed" ID="F3" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Courier" FONTSIZE="2" FONTTYPE="serif" FONTWIDTH="fixed" ID="F4" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Courier" FONTSIZE="3" FONTTYPE="serif" FONTWIDTH="fixed" ID="F5" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Helvetica-BoldOblique" FONTSIZE="5" FONTTYPE="sans-serif" FONTWIDTH="proportional" ID="F6" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Helvetica-Bold" FONTSIZE="5" FONTTYPE="sans-serif" FONTWIDTH="proportional" ID="F7" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Helvetica-Oblique" FONTSIZE="3" FONTTYPE="sans-serif" FONTWIDTH="proportional" ID="F8" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Helvetica-Oblique" FONTSIZE="4" FONTTYPE="sans-serif" FONTWIDTH="proportional" ID="F9" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Helvetica-Oblique" FONTSIZE="5" FONTTYPE="sans-serif" FONTWIDTH="proportional" ID="F10" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Helvetica-Oblique" FONTSIZE="7" FONTTYPE="sans-serif" FONTWIDTH="proportional" ID="F11" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Helvetica" FONTSIZE="3" FONTTYPE="sans-serif" FONTWIDTH="proportional" ID="F12" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Helvetica" FONTSIZE="4" FONTTYPE="sans-serif" FONTWIDTH="proportional" ID="F13" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Helvetica" FONTSIZE="5" FONTTYPE="sans-serif" FONTWIDTH="proportional" ID="F14" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Helvetica" FONTSIZE="8" FONTTYPE="sans-serif" FONTWIDTH="proportional" ID="F15" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Helvetica" FONTSIZE="9" FONTTYPE="sans-serif" FONTWIDTH="proportional" ID="F16" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Helvetica" FONTSIZE="12" FONTTYPE="sans-serif" FONTWIDTH="proportional" ID="F17" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Helvetica" FONTSIZE="23" FONTTYPE="sans-serif" FONTWIDTH="proportional" ID="F18" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Times-Italic" FONTSIZE="3" FONTTYPE="serif" FONTWIDTH="proportional" ID="F19" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Times-Roman" FONTSIZE="3" FONTTYPE="serif" FONTWIDTH="proportional" ID="F20" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Times-Roman" FONTSIZE="4" FONTTYPE="serif" FONTWIDTH="proportional" ID="F21" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Times-Roman" FONTSIZE="7" FONTTYPE="serif" FONTWIDTH="proportional" ID="F22" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Times-Roman" FONTSIZE="8" FONTTYPE="serif" FONTWIDTH="proportional" ID="F23" />
+  <TextStyle FONTCOLOR="000000" FONTFAMILY="Times-Roman" FONTSIZE="11" FONTTYPE="serif" FONTWIDTH="proportional" ID="F24" />
+ </Styles>
+ <Layout>
+  <Page HEIGHT="27276" ID="P2" PHYSICAL_IMG_NR="2" PROCESSING="OCR001" QUALITY="Target" WIDTH="19620">
+   <PrintSpace HEIGHT="27276" HPOS="0" ID="P001_PS1" VPOS="0" WIDTH="19620">
+    <TextBlock HEIGHT="92" HPOS="3883" ID="TB1" VPOS="2109" WIDTH="150" language="ger">
+     <TextLine HEIGHT="92" HPOS="3883" ID="TL1" VPOS="2109" WIDTH="150">
+      <String CONTENT="3,P" HEIGHT="92" HPOS="3883" ID="ST1" STYLEREFS="F1" VPOS="2109" WC="0.50" WIDTH="150" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="55" HPOS="3517" ID="TB2" VPOS="2276" WIDTH="51" language="ger">
+     <TextLine HEIGHT="55" HPOS="3517" ID="TL2" VPOS="2276" WIDTH="51">
+      <String CONTENT="c'" HEIGHT="55" HPOS="3517" ID="ST2" STYLEREFS="F20" VPOS="2276" WC="1.00" WIDTH="51" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="91" HPOS="2600" ID="TB3" VPOS="25593" WIDTH="85" language="ger">
+     <TextLine HEIGHT="91" HPOS="2600" ID="TL3" VPOS="25593" WIDTH="85">
+      <String CONTENT="&quot;3" HEIGHT="91" HPOS="2600" ID="ST3" STYLEREFS="F6" VPOS="25593" WC="0.38" WIDTH="85" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="74" HPOS="2533" ID="TB4" VPOS="25559" WIDTH="134" language="ger">
+     <TextLine HEIGHT="74" HPOS="2533" ID="TL4" VPOS="25559" WIDTH="45">
+      <String CONTENT="1" HEIGHT="74" HPOS="2533" ID="ST4" STYLEREFS="F9" VPOS="25559" WC="0.90" WIDTH="45" />
+     </TextLine>
+     <TextLine HEIGHT="74" HPOS="2533" ID="TL5" VPOS="25559" WIDTH="134">
+      <String CONTENT="bJ6" HEIGHT="74" HPOS="2533" ID="ST5" STYLEREFS="F9" VPOS="25559" WC="0.50" WIDTH="134" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="55" HPOS="4033" ID="TB5" VPOS="2226" WIDTH="84" language="ger">
+     <TextLine HEIGHT="55" HPOS="4033" ID="TL6" VPOS="2226" WIDTH="84">
+      <String CONTENT="b$" HEIGHT="55" HPOS="4033" ID="ST6" STYLEREFS="F20" VPOS="2226" WC="1.00" WIDTH="84" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="91" HPOS="3050" ID="TB6" VPOS="2643" WIDTH="417" language="ger">
+     <TextLine HEIGHT="91" HPOS="3050" ID="TL7" VPOS="2643" WIDTH="417">
+      <String CONTENT="c.S" HEIGHT="91" HPOS="3050" ID="ST7" STYLEREFS="F14" VPOS="2643" WC="1.00" WIDTH="120" />
+      <SP ID="SP7" />
+      <String CONTENT="7" HEIGHT="91" HPOS="3417" ID="ST8" STYLEREFS="F6" VPOS="2643" WC="0.90" WIDTH="50" />
+     </TextLine>
+     <TextLine HEIGHT="91" HPOS="3400" ID="TL8" VPOS="2643" WIDTH="55">
+      <String CONTENT="S" HEIGHT="91" HPOS="3400" ID="ST9" STYLEREFS="F14" VPOS="2643" WC="1.00" WIDTH="55" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="92" HPOS="6550" ID="TB7" VPOS="4409" WIDTH="73" language="ger">
+     <TextLine HEIGHT="92" HPOS="6550" ID="TL9" VPOS="4409" WIDTH="73">
+      <String CONTENT="-7" HEIGHT="92" HPOS="6550" ID="ST10" STYLEREFS="F6" VPOS="4409" WC="0.38" WIDTH="73" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="73" HPOS="8017" ID="TB8" VPOS="8193" WIDTH="188" language="ger">
+     <TextLine HEIGHT="73" HPOS="8017" ID="TL10" VPOS="8193" WIDTH="188">
+      <String CONTENT="CE" HEIGHT="73" HPOS="8017" ID="ST11" STYLEREFS="F13" VPOS="8193" WC="1.00" WIDTH="115" />
+      <SP ID="SP11" />
+      <String CONTENT="S" HEIGHT="73" HPOS="8150" ID="ST12" STYLEREFS="F13" VPOS="8193" WC="1.00" WIDTH="55" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="88" HPOS="7150" ID="TB9" VPOS="8626" WIDTH="527" language="ger">
+     <TextLine HEIGHT="88" HPOS="7150" ID="TL11" VPOS="8626" WIDTH="527">
+      <String CONTENT="E" HEIGHT="55" HPOS="7150" ID="ST13" STYLEREFS="F20" VPOS="8659" WC="1.00" WIDTH="50" />
+      <SP ID="SP13" />
+      <String CONTENT="\&quot;oco" HEIGHT="55" HPOS="7500" ID="ST14" STYLEREFS="F20" VPOS="8626" WC="1.00" WIDTH="177" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="55" HPOS="7217" ID="TB10" VPOS="8643" WIDTH="155" language="ger">
+     <TextLine HEIGHT="55" HPOS="7217" ID="TL12" VPOS="8643" WIDTH="155">
+      <String CONTENT="2~U" HEIGHT="55" HPOS="7217" ID="ST15" STYLEREFS="F12" VPOS="8643" WC="1.00" WIDTH="155" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="73" HPOS="7383" ID="TB11" VPOS="8793" WIDTH="67" language="ger">
+     <TextLine HEIGHT="73" HPOS="7383" ID="TL13" VPOS="8793" WIDTH="67">
+      <String CONTENT="P," HEIGHT="73" HPOS="7383" ID="ST16" STYLEREFS="F21" VPOS="8793" WC="0.38" WIDTH="67" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="128" HPOS="6900" ID="TB12" VPOS="19693" WIDTH="188" language="ger">
+     <TextLine HEIGHT="128" HPOS="6900" ID="TL14" VPOS="19693" WIDTH="188">
+      <String CONTENT="-96r" HEIGHT="128" HPOS="6900" ID="ST17" STYLEREFS="F11" VPOS="19693" WC="1.00" WIDTH="188" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="92" HPOS="7167" ID="TB13" VPOS="19726" WIDTH="128" language="ger">
+     <TextLine HEIGHT="92" HPOS="7167" ID="TL15" VPOS="19726" WIDTH="128">
+      <String CONTENT="S%" HEIGHT="92" HPOS="7167" ID="ST18" STYLEREFS="F10" VPOS="19726" WC="1.00" WIDTH="128" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="55" HPOS="7367" ID="TB14" VPOS="19843" WIDTH="91" language="ger">
+     <TextLine HEIGHT="55" HPOS="7367" ID="TL16" VPOS="19843" WIDTH="91">
+      <String CONTENT="bb" HEIGHT="55" HPOS="7367" ID="ST19" STYLEREFS="F12" VPOS="19843" WC="0.50" WIDTH="91" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="55" HPOS="7200" ID="TB15" VPOS="19843" WIDTH="38" language="ger">
+     <TextLine HEIGHT="55" HPOS="7200" ID="TL17" VPOS="19843" WIDTH="38">
+      <String CONTENT="$/" HEIGHT="55" HPOS="7200" ID="ST20" STYLEREFS="F19" VPOS="19843" WC="1.00" WIDTH="38" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="55" HPOS="7033" ID="TB16" VPOS="19943" WIDTH="60" language="ger">
+     <TextLine HEIGHT="55" HPOS="7033" ID="TL18" VPOS="19943" WIDTH="60">
+      <String CONTENT="ls" HEIGHT="55" HPOS="7033" ID="ST21" STYLEREFS="F8" VPOS="19943" WC="1.00" WIDTH="60" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="74" HPOS="7317" ID="TB17" VPOS="19959" WIDTH="101" language="ger">
+     <TextLine HEIGHT="74" HPOS="7317" ID="TL19" VPOS="19959" WIDTH="101">
+      <String CONTENT="0S" HEIGHT="74" HPOS="7317" ID="ST22" STYLEREFS="F9" VPOS="19959" WC="0.38" WIDTH="101" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="55" HPOS="7667" ID="TB18" VPOS="20143" WIDTH="273" language="ger">
+     <TextLine HEIGHT="55" HPOS="7667" ID="TL20" VPOS="20143" WIDTH="273">
+      <String CONTENT="&amp;" HEIGHT="55" HPOS="7667" ID="ST23" STYLEREFS="F8" VPOS="20143" WC="1.00" WIDTH="33" />
+      <SP ID="SP23" />
+      <String CONTENT="'7d~" HEIGHT="55" HPOS="7783" ID="ST24" STYLEREFS="F12" VPOS="20143" WC="1.00" WIDTH="157" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="92" HPOS="7483" ID="TB19" VPOS="20259" WIDTH="269" language="ger">
+     <TextLine HEIGHT="92" HPOS="7483" ID="TL21" VPOS="20259" WIDTH="269">
+      <String CONTENT="04,~" HEIGHT="92" HPOS="7483" ID="ST25" STYLEREFS="F7" VPOS="20259" WC="0.56" WIDTH="269" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="55" HPOS="7867" ID="TB20" VPOS="20376" WIDTH="366" language="ger">
+     <TextLine HEIGHT="55" HPOS="7867" ID="TL22" VPOS="20376" WIDTH="366">
+      <String CONTENT="OJ" HEIGHT="55" HPOS="7867" ID="ST26" STYLEREFS="F2" VPOS="20376" WC="0.85" WIDTH="100" />
+      <SP ID="SP26" />
+      <String CONTENT="1bN" HEIGHT="55" HPOS="8083" ID="ST27" STYLEREFS="F2" VPOS="20376" WC="0.50" WIDTH="150" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="74" HPOS="7967" ID="TB21" VPOS="20459" WIDTH="261" language="ger">
+     <TextLine HEIGHT="74" HPOS="7967" ID="TL23" VPOS="20459" WIDTH="261">
+      <String CONTENT="OdJ~lO" HEIGHT="74" HPOS="7967" ID="ST28" STYLEREFS="F21" VPOS="20459" WC="1.00" WIDTH="261" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="421" HPOS="10933" ID="TB22" VPOS="14443" WIDTH="1065" language="ger">
+     <TextLine HEIGHT="421" HPOS="10933" ID="TL24" VPOS="14443" WIDTH="1065">
+      <String CONTENT="11111" HEIGHT="421" HPOS="10933" ID="ST29" STYLEREFS="F18" VPOS="14443" WC="0.90" WIDTH="1065" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="128" HPOS="11417" ID="TB23" VPOS="14726" WIDTH="103" language="ger">
+     <TextLine HEIGHT="128" HPOS="11417" ID="TL25" VPOS="14726" WIDTH="103">
+      <String CONTENT="III" HEIGHT="128" HPOS="11417" ID="ST30" STYLEREFS="F22" VPOS="14726" WC="1.00" WIDTH="103" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="55" HPOS="13000" ID="TB24" VPOS="13793" WIDTH="52" language="ger">
+     <TextLine HEIGHT="55" HPOS="13000" ID="TL26" VPOS="13793" WIDTH="52">
+      <String CONTENT="I&quot;" HEIGHT="55" HPOS="13000" ID="ST31" STYLEREFS="F12" VPOS="13793" WC="1.00" WIDTH="52" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="55" HPOS="13150" ID="TB25" VPOS="13926" WIDTH="100" language="ger">
+     <TextLine HEIGHT="55" HPOS="13150" ID="TL27" VPOS="13926" WIDTH="100">
+      <String CONTENT="rn" HEIGHT="55" HPOS="13150" ID="ST32" STYLEREFS="F5" VPOS="13926" WC="1.00" WIDTH="100" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="55" HPOS="13000" ID="TB26" VPOS="14076" WIDTH="100" language="ger">
+     <TextLine HEIGHT="55" HPOS="13000" ID="TL28" VPOS="14076" WIDTH="100">
+      <String CONTENT="w&quot;" HEIGHT="55" HPOS="13000" ID="ST33" STYLEREFS="F2" VPOS="14076" WC="1.00" WIDTH="100" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="55" HPOS="12983" ID="TB27" VPOS="14326" WIDTH="30" language="ger">
+     <TextLine HEIGHT="55" HPOS="12983" ID="TL29" VPOS="14326" WIDTH="30">
+      <String CONTENT="O" HEIGHT="55" HPOS="12983" ID="ST34" STYLEREFS="F5" VPOS="14326" WC="1.00" WIDTH="30" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="36" HPOS="12967" ID="TB28" VPOS="14543" WIDTH="100" language="ger">
+     <TextLine HEIGHT="36" HPOS="12967" ID="TL30" VPOS="14543" WIDTH="100">
+      <String CONTENT="UJ" HEIGHT="36" HPOS="12967" ID="ST35" STYLEREFS="F4" VPOS="14543" WC="0.85" WIDTH="100" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="91" HPOS="12067" ID="TB29" VPOS="14743" WIDTH="133" language="ger">
+     <TextLine HEIGHT="91" HPOS="12067" ID="TL31" VPOS="14743" WIDTH="133">
+      <String CONTENT="'ll'~" HEIGHT="91" HPOS="12067" ID="ST36" STYLEREFS="F7" VPOS="14743" WC="1.00" WIDTH="133" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="105" HPOS="12967" ID="TB30" VPOS="14776" WIDTH="116" language="ger">
+     <TextLine HEIGHT="37" HPOS="12967" ID="TL32" VPOS="14776" WIDTH="100">
+      <String CONTENT="0," HEIGHT="37" HPOS="12967" ID="ST37" STYLEREFS="F4" VPOS="14776" WC="0.90" WIDTH="100" />
+     </TextLine>
+     <TextLine HEIGHT="55" HPOS="12967" ID="TL33" VPOS="14826" WIDTH="116">
+      <String CONTENT="0," HEIGHT="55" HPOS="12967" ID="ST38" STYLEREFS="F4" VPOS="14826" WC="0.90" WIDTH="116" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="55" HPOS="13050" ID="TB31" VPOS="14976" WIDTH="27" language="ger">
+     <TextLine HEIGHT="55" HPOS="13050" ID="TL34" VPOS="14976" WIDTH="27">
+      <String CONTENT="0" HEIGHT="55" HPOS="13050" ID="ST39" STYLEREFS="F12" VPOS="14976" WC="0.90" WIDTH="27" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="55" HPOS="12983" ID="TB32" VPOS="15076" WIDTH="100" language="ger">
+     <TextLine HEIGHT="55" HPOS="12983" ID="TL35" VPOS="15076" WIDTH="100">
+      <String CONTENT="_U" HEIGHT="55" HPOS="12983" ID="ST40" STYLEREFS="F5" VPOS="15076" WC="0.38" WIDTH="100" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="91" HPOS="15433" ID="TB33" VPOS="8293" WIDTH="209" language="ger">
+     <TextLine HEIGHT="91" HPOS="15433" ID="TL36" VPOS="8293" WIDTH="209">
+      <String CONTENT="4C9S" HEIGHT="91" HPOS="15433" ID="ST41" STYLEREFS="F10" VPOS="8293" WC="0.28" WIDTH="209" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="74" HPOS="16000" ID="TB34" VPOS="8359" WIDTH="333" language="ger">
+     <TextLine HEIGHT="74" HPOS="16000" ID="TL37" VPOS="8359" WIDTH="333">
+      <String CONTENT="'to" HEIGHT="74" HPOS="16000" ID="ST42" STYLEREFS="F3" VPOS="8359" WC="1.00" WIDTH="150" />
+      <SP ID="SP42" />
+      <String CONTENT="FS" HEIGHT="55" HPOS="16233" ID="ST43" STYLEREFS="F2" VPOS="8376" WC="0.85" WIDTH="100" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="92" HPOS="16167" ID="TB35" VPOS="8509" WIDTH="151" language="ger">
+     <TextLine HEIGHT="92" HPOS="16167" ID="TL38" VPOS="8509" WIDTH="151">
+      <String CONTENT="mss" HEIGHT="92" HPOS="16167" ID="ST44" STYLEREFS="F10" VPOS="8509" WC="0.50" WIDTH="151" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="73" HPOS="15950" ID="TB36" VPOS="8626" WIDTH="150" language="ger">
+     <TextLine HEIGHT="73" HPOS="15950" ID="TL39" VPOS="8626" WIDTH="150">
+      <String CONTENT="sr." HEIGHT="73" HPOS="15950" ID="ST45" STYLEREFS="F3" VPOS="8626" WC="1.00" WIDTH="150" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="220" HPOS="16467" ID="TB37" VPOS="20093" WIDTH="221" language="ger">
+     <TextLine HEIGHT="220" HPOS="16467" ID="TL40" VPOS="20093" WIDTH="221">
+      <String CONTENT="41" HEIGHT="220" HPOS="16467" ID="ST46" STYLEREFS="F17" VPOS="20093" WC="0.90" WIDTH="221" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="73" HPOS="15900" ID="TB38" VPOS="20943" WIDTH="33" language="ger">
+     <TextLine HEIGHT="73" HPOS="15900" ID="TL41" VPOS="20943" WIDTH="33">
+      <String CONTENT="8" HEIGHT="73" HPOS="15900" ID="ST47" STYLEREFS="F21" VPOS="20943" WC="0.90" WIDTH="33" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="147" HPOS="15317" ID="TB39" VPOS="21226" WIDTH="146" language="ger">
+     <TextLine HEIGHT="147" HPOS="15317" ID="TL42" VPOS="21226" WIDTH="146">
+      <String CONTENT="Eo" HEIGHT="147" HPOS="15317" ID="ST48" STYLEREFS="F23" VPOS="21226" WC="1.00" WIDTH="146" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="163" HPOS="16600" ID="TB40" VPOS="21093" WIDTH="502" language="ger">
+     <TextLine HEIGHT="163" HPOS="16600" ID="TL43" VPOS="21093" WIDTH="502">
+      <String CONTENT="q\" HEIGHT="147" HPOS="16600" ID="ST49" STYLEREFS="F15" VPOS="21109" WC="1.00" WIDTH="110" />
+      <SP ID="SP49" />
+      <String CONTENT=".F" HEIGHT="146" HPOS="16983" ID="ST50" STYLEREFS="F15" VPOS="21093" WC="0.38" WIDTH="119" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="91" HPOS="15533" ID="TB41" VPOS="21243" WIDTH="100" language="ger">
+     <TextLine HEIGHT="91" HPOS="15533" ID="TL44" VPOS="21243" WIDTH="100">
+      <String CONTENT="75" HEIGHT="91" HPOS="15533" ID="ST51" STYLEREFS="F1" VPOS="21243" WC="0.90" WIDTH="100" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="91" HPOS="16283" ID="TB42" VPOS="21793" WIDTH="167" language="ger">
+     <TextLine HEIGHT="91" HPOS="16283" ID="TL45" VPOS="21793" WIDTH="167">
+      <String CONTENT="1J\V" HEIGHT="91" HPOS="16283" ID="ST52" STYLEREFS="F14" VPOS="21793" WC="1.00" WIDTH="167" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="165" HPOS="16383" ID="TB43" VPOS="22093" WIDTH="84" language="ger">
+     <TextLine HEIGHT="165" HPOS="16383" ID="TL46" VPOS="22093" WIDTH="84">
+      <String CONTENT="0" HEIGHT="165" HPOS="16383" ID="ST53" STYLEREFS="F16" VPOS="22093" WC="0.90" WIDTH="84" />
+     </TextLine>
+    </TextBlock>
+    <TextBlock HEIGHT="202" HPOS="16717" ID="TB44" VPOS="22259" WIDTH="161" language="ger">
+     <TextLine HEIGHT="202" HPOS="16717" ID="TL47" VPOS="22259" WIDTH="161">
+      <String CONTENT="tL" HEIGHT="202" HPOS="16717" ID="ST54" STYLEREFS="F24" VPOS="22259" WC="1.00" WIDTH="161" />
+     </TextLine>
+    </TextBlock>
+   </PrintSpace>
+  </Page>
+ </Layout>
+</alto>
+

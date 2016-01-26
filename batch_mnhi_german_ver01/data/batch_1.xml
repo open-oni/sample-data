@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ndnp:batch name="batch_mnhi_uhaul" awardee="mnhi" awardYear="2011" xmlns:ndnp="http://www.loc.gov/ndnp">
+    <ndnp:issue lccn="sn83045350" issueDate="1878-01-03" editionOrder="1">sn83045350/00295876384/1878010301/1878010301_1.xml</ndnp:issue>
+    <ndnp:reel reelNumber="00295876384">sn83045350/00295876384/00295876384_1.xml</ndnp:reel>
+</ndnp:batch>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:ndnp="http://www.loc.gov/ndnp" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LABEL="00295876384" PROFILE="urn:library-of-congress:mets:profiles:ndnp:microfilmReel:v1.4" TYPE="urn:library-of-congress:ndnp:mets:microfilmReel">
+  <metsHdr ADMID="digSig" CREATEDATE="2013-10-18T17:49:11" RECORDSTATUS="Validated">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Minnesota Historical Society</name>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="techTargetModsBib1">
+    <mdWrap LABEL="Tech Target metadata" MDTYPE="MODS">
+      <xmlData>
+        <mods:mods>
+          <mods:titleInfo>
+            <mods:title>Preservation Microfilm Scanner Target PMT1</mods:title>
+          </mods:titleInfo>
+          <mods:note displayLabel="Minnesota Historical Society; Saint Paul, MN" type="agencyResponsibleForReproduction">mnhi</mods:note>
+        </mods:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="techTargetModsBib2">
+    <mdWrap LABEL="Tech Target metadata" MDTYPE="MODS">
+      <xmlData>
+        <mods:mods>
+          <mods:titleInfo>
+            <mods:title>Preservation Microfilm Scanner Target PMT1</mods:title>
+          </mods:titleInfo>
+          <mods:note displayLabel="Minnesota Historical Society; Saint Paul, MN" type="agencyResponsibleForReproduction">mnhi</mods:note>
+        </mods:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="targetModsBib1">
+    <mdWrap LABEL="Target metadata" MDTYPE="MODS">
+      <xmlData>
+        <mods:mods>
+          <mods:relatedItem type="original">
+            <mods:physicalDescription>
+              <mods:form type="microfilm"/>
+            </mods:physicalDescription>
+            <mods:identifier type="reel number">00295876384</mods:identifier>
+            <mods:identifier type="reel sequence number">1</mods:identifier>
+            <mods:location>
+              <mods:physicalLocation authority="marcorg" displayLabel="Minnesota Historical Society; Saint Paul, MN">mnhi</mods:physicalLocation>
+            </mods:location>
+          </mods:relatedItem>
+          <mods:note displayLabel="Minnesota Historical Society; Saint Paul, MN" type="agencyResponsibleForReproduction">mnhi</mods:note>
+        </mods:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="targetModsBib2">
+    <mdWrap LABEL="Target metadata" MDTYPE="MODS">
+      <xmlData>
+        <mods:mods>
+          <mods:relatedItem type="original">
+            <mods:physicalDescription>
+              <mods:form type="microfilm"/>
+            </mods:physicalDescription>
+            <mods:identifier type="reel number">00295876384</mods:identifier>
+            <mods:identifier type="reel sequence number">2</mods:identifier>
+            <mods:location>
+              <mods:physicalLocation authority="marcorg" displayLabel="Minnesota Historical Society; Saint Paul, MN">mnhi</mods:physicalLocation>
+            </mods:location>
+          </mods:relatedItem>
+          <mods:note displayLabel="Minnesota Historical Society; Saint Paul, MN" type="agencyResponsibleForReproduction">mnhi</mods:note>
+        </mods:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="targetModsBib3">
+    <mdWrap LABEL="Target metadata" MDTYPE="MODS">
+      <xmlData>
+        <mods:mods>
+          <mods:relatedItem type="original">
+            <mods:physicalDescription>
+              <mods:form type="microfilm"/>
+            </mods:physicalDescription>
+            <mods:identifier type="reel number">00295876384</mods:identifier>
+            <mods:identifier type="reel sequence number">459</mods:identifier>
+            <mods:location>
+              <mods:physicalLocation authority="marcorg" displayLabel="Minnesota Historical Society; Saint Paul, MN">mnhi</mods:physicalLocation>
+            </mods:location>
+          </mods:relatedItem>
+          <mods:note displayLabel="Minnesota Historical Society; Saint Paul, MN" type="agencyResponsibleForReproduction">mnhi</mods:note>
+        </mods:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec><techMD ID="reelTechMD">
+      <mdWrap LABEL="NDNP technical metadata for microfilm reel" MDTYPE="OTHER" OTHERMDTYPE="NDNP Reel Technical Metadata">
+        <xmlData>
+          <ndnp:reelTechMD>
+            <ndnp:titles>Der Nordstern (St. Cloud, Minn.)</ndnp:titles>
+            <ndnp:startDate>1877-12-27</ndnp:startDate>
+            <ndnp:endDate>1878-12-26</ndnp:endDate>
+            <ndnp:position>1a</ndnp:position>
+            <ndnp:reductionRatio>12x</ndnp:reductionRatio>
+            <ndnp:captureResolutionOriginal measurement="pixels/inch">400</ndnp:captureResolutionOriginal>
+            <ndnp:resolutionOfMaster>7.1</ndnp:resolutionOfMaster>
+            <ndnp:resolutionOfDuplicateNegative>6.3</ndnp:resolutionOfDuplicateNegative>
+          </ndnp:reelTechMD>
+        </xmlData>
+      </mdWrap>
+    </techMD><techMD ID="mixmasterFile1"><mdWrap LABEL="NISO still image metadata" MDTYPE="NISOIMG"><xmlData><mix:mix xmlns:mix="http://www.loc.gov/mix/"><mix:BasicImageParameters><mix:Format><mix:Compression>
+          <mix:CompressionScheme>1</mix:CompressionScheme>
+         </mix:Compression><mix:PhotometricInterpretation>
+          <mix:ColorSpace>1</mix:ColorSpace>
+         </mix:PhotometricInterpretation></mix:Format></mix:BasicImageParameters><mix:ImageCreation><mix:SourceType>microfilm</mix:SourceType><mix:ImageProducer>Minnesota Historical Society; Northern Micrographics/NMT Corporation</mix:ImageProducer><mix:ScanningSystemCapture><mix:ScanningSystemHardware>
+          <mix:ScannerManufacturer>Sunrise</mix:ScannerManufacturer>
+          <mix:ScannerModel>
+           <mix:ScannerModelName>Sunrise, 2500, SN#BS250005080E1052</mix:ScannerModelName>
+          </mix:ScannerModel>
+         </mix:ScanningSystemHardware></mix:ScanningSystemCapture></mix:ImageCreation><mix:ImagingPerformanceAssessment><mix:SpatialMetrics><mix:SamplingFrequencyUnit>2</mix:SamplingFrequencyUnit><mix:XSamplingFrequency>400</mix:XSamplingFrequency><mix:YSamplingFrequency>400</mix:YSamplingFrequency><mix:ImageWidth>7161</mix:ImageWidth><mix:ImageLength>9698</mix:ImageLength></mix:SpatialMetrics><mix:Energetics><mix:BitsPerSample>8</mix:BitsPerSample></mix:Energetics></mix:ImagingPerformanceAssessment></mix:mix></xmlData></mdWrap></techMD><techMD ID="premismasterFile1"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>c9155d0853f2601a9e484049d4f62485e22bdce3</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>69447888</premis:size><premis:format><premis:formatDesignation><premis:formatName>image/tiff</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication><premis:creatingApplicationName>PolishImage v1.99.06</premis:creatingApplicationName><premis:dateCreatedByApplication>2013-10-18T17:49:13</premis:dateCreatedByApplication></premis:creatingApplication></premis:object></xmlData></mdWrap></techMD><techMD ID="mixserviceFile1"><mdWrap LABEL="NISO still image metadata" MDTYPE="NISOIMG"><xmlData><mix:mix xmlns:mix="http://www.loc.gov/mix/"><mix:BasicImageParameters><mix:Format><mix:Compression>
+         <mix:CompressionScheme>34712</mix:CompressionScheme>
+        </mix:Compression></mix:Format></mix:BasicImageParameters><mix:ImageCreation/><mix:ImagingPerformanceAssessment><mix:SpatialMetrics><mix:ImageWidth>7161</mix:ImageWidth><mix:ImageLength>9698</mix:ImageLength></mix:SpatialMetrics><mix:Energetics><mix:BitsPerSample>8</mix:BitsPerSample></mix:Energetics></mix:ImagingPerformanceAssessment></mix:mix></xmlData></mdWrap></techMD><techMD ID="premisserviceFile1"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>9c0827ef3ee74439e96e264fc37161eb68ae8203</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>7587096</premis:size><premis:format><premis:formatDesignation><premis:formatName>image/jp2</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication/></premis:object></xmlData></mdWrap></techMD><techMD ID="premisotherDerivativeFile1"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>11dc36e2de93e86ee0281a42623b289f51a2ed6c</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>576602</premis:size><premis:format><premis:formatDesignation><premis:formatName>application/pdf</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication><premis:dateCreatedByApplication>2013-01-18T11:49:32</premis:dateCreatedByApplication></premis:creatingApplication></premis:object></xmlData></mdWrap></techMD><techMD ID="premisocrFile1"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>c8f1b94dde8c8d0b8d24ec5c6722c97487b56927</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>14160</premis:size><premis:format><premis:formatDesignation><premis:formatName>text/xml</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication><premis:creatingApplicationName>ABBYY Software LLC ABBYY FineReader Engine 8.04.1162.20</premis:creatingApplicationName></premis:creatingApplication></premis:object></xmlData></mdWrap></techMD><techMD ID="mixmasterFile2"><mdWrap LABEL="NISO still image metadata" MDTYPE="NISOIMG"><xmlData><mix:mix xmlns:mix="http://www.loc.gov/mix/"><mix:BasicImageParameters><mix:Format><mix:Compression>
+          <mix:CompressionScheme>1</mix:CompressionScheme>
+         </mix:Compression><mix:PhotometricInterpretation>
+          <mix:ColorSpace>1</mix:ColorSpace>
+         </mix:PhotometricInterpretation></mix:Format></mix:BasicImageParameters><mix:ImageCreation><mix:SourceType>microfilm</mix:SourceType><mix:ImageProducer>Minnesota Historical Society; Northern Micrographics/NMT Corporation</mix:ImageProducer><mix:ScanningSystemCapture><mix:ScanningSystemHardware>
+          <mix:ScannerManufacturer>Sunrise</mix:ScannerManufacturer>
+          <mix:ScannerModel>
+           <mix:ScannerModelName>Sunrise, 2500, SN#BS250005080E1052</mix:ScannerModelName>
+          </mix:ScannerModel>
+         </mix:ScanningSystemHardware></mix:ScanningSystemCapture></mix:ImageCreation><mix:ImagingPerformanceAssessment><mix:SpatialMetrics><mix:SamplingFrequencyUnit>2</mix:SamplingFrequencyUnit><mix:XSamplingFrequency>400</mix:XSamplingFrequency><mix:YSamplingFrequency>400</mix:YSamplingFrequency><mix:ImageWidth>7164</mix:ImageWidth><mix:ImageLength>9701</mix:ImageLength></mix:SpatialMetrics><mix:Energetics><mix:BitsPerSample>8</mix:BitsPerSample></mix:Energetics></mix:ImagingPerformanceAssessment></mix:mix></xmlData></mdWrap></techMD><techMD ID="premismasterFile2"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>cc31c1b4e5a90d403d84e768bfaff057f0685da5</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>69498474</premis:size><premis:format><premis:formatDesignation><premis:formatName>image/tiff</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication><premis:creatingApplicationName>PolishImage v1.99.06</premis:creatingApplicationName><premis:dateCreatedByApplication>2013-10-18T17:49:14</premis:dateCreatedByApplication></premis:creatingApplication></premis:object></xmlData></mdWrap></techMD><techMD ID="mixserviceFile2"><mdWrap LABEL="NISO still image metadata" MDTYPE="NISOIMG"><xmlData><mix:mix xmlns:mix="http://www.loc.gov/mix/"><mix:BasicImageParameters><mix:Format><mix:Compression>
+         <mix:CompressionScheme>34712</mix:CompressionScheme>
+        </mix:Compression></mix:Format></mix:BasicImageParameters><mix:ImageCreation/><mix:ImagingPerformanceAssessment><mix:SpatialMetrics><mix:ImageWidth>7164</mix:ImageWidth><mix:ImageLength>9701</mix:ImageLength></mix:SpatialMetrics><mix:Energetics><mix:BitsPerSample>8</mix:BitsPerSample></mix:Energetics></mix:ImagingPerformanceAssessment></mix:mix></xmlData></mdWrap></techMD><techMD ID="premisserviceFile2"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>5967c9e72b5f6a8d135ec974bc35161312fde0e8</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>7381407</premis:size><premis:format><premis:formatDesignation><premis:formatName>image/jp2</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication/></premis:object></xmlData></mdWrap></techMD><techMD ID="premisotherDerivativeFile2"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>5a3f3a416826ada29ce4d9811f6cf859af9fc923</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>570921</premis:size><premis:format><premis:formatDesignation><premis:formatName>application/pdf</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication><premis:dateCreatedByApplication>2013-01-18T11:49:32</premis:dateCreatedByApplication></premis:creatingApplication></premis:object></xmlData></mdWrap></techMD><techMD ID="premisocrFile2"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>d118067f3a9ed3b729c0e289cb46df9b7c074b76</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>8449</premis:size><premis:format><premis:formatDesignation><premis:formatName>text/xml</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication><premis:creatingApplicationName>ABBYY Software LLC ABBYY FineReader Engine 8.04.1162.20</premis:creatingApplicationName></premis:creatingApplication></premis:object></xmlData></mdWrap></techMD><techMD ID="mixmasterFile3"><mdWrap LABEL="NISO still image metadata" MDTYPE="NISOIMG"><xmlData><mix:mix xmlns:mix="http://www.loc.gov/mix/"><mix:BasicImageParameters><mix:Format><mix:Compression>
+          <mix:CompressionScheme>1</mix:CompressionScheme>
+         </mix:Compression><mix:PhotometricInterpretation>
+          <mix:ColorSpace>1</mix:ColorSpace>
+         </mix:PhotometricInterpretation></mix:Format></mix:BasicImageParameters><mix:ImageCreation><mix:SourceType>microfilm</mix:SourceType><mix:ImageProducer>Minnesota Historical Society; Northern Micrographics/NMT Corporation</mix:ImageProducer><mix:ScanningSystemCapture><mix:ScanningSystemHardware>
+          <mix:ScannerManufacturer>Sunrise</mix:ScannerManufacturer>
+          <mix:ScannerModel>
+           <mix:ScannerModelName>Sunrise, 2500, SN#BS250005080E1052</mix:ScannerModelName>
+          </mix:ScannerModel>
+         </mix:ScanningSystemHardware></mix:ScanningSystemCapture></mix:ImageCreation><mix:ImagingPerformanceAssessment><mix:SpatialMetrics><mix:SamplingFrequencyUnit>2</mix:SamplingFrequencyUnit><mix:XSamplingFrequency>400</mix:XSamplingFrequency><mix:YSamplingFrequency>400</mix:YSamplingFrequency><mix:ImageWidth>5240</mix:ImageWidth><mix:ImageLength>7734</mix:ImageLength></mix:SpatialMetrics><mix:Energetics><mix:BitsPerSample>8</mix:BitsPerSample></mix:Energetics></mix:ImagingPerformanceAssessment></mix:mix></xmlData></mdWrap></techMD><techMD ID="premismasterFile3"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>3e2286dc8997733be6b3c03780bd44231d8b58dd</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>40526662</premis:size><premis:format><premis:formatDesignation><premis:formatName>image/tiff</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication><premis:creatingApplicationName>PolishImage v1.99.06</premis:creatingApplicationName><premis:dateCreatedByApplication>2013-10-18T17:49:12</premis:dateCreatedByApplication></premis:creatingApplication></premis:object></xmlData></mdWrap></techMD><techMD ID="mixserviceFile3"><mdWrap LABEL="NISO still image metadata" MDTYPE="NISOIMG"><xmlData><mix:mix xmlns:mix="http://www.loc.gov/mix/"><mix:BasicImageParameters><mix:Format><mix:Compression>
+         <mix:CompressionScheme>34712</mix:CompressionScheme>
+        </mix:Compression></mix:Format></mix:BasicImageParameters><mix:ImageCreation/><mix:ImagingPerformanceAssessment><mix:SpatialMetrics><mix:ImageWidth>5240</mix:ImageWidth><mix:ImageLength>7734</mix:ImageLength></mix:SpatialMetrics><mix:Energetics><mix:BitsPerSample>8</mix:BitsPerSample></mix:Energetics></mix:ImagingPerformanceAssessment></mix:mix></xmlData></mdWrap></techMD><techMD ID="premisserviceFile3"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>e2246ebd517c7cc197498cd271eb30835a65c678</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>3678893</premis:size><premis:format><premis:formatDesignation><premis:formatName>image/jp2</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication/></premis:object></xmlData></mdWrap></techMD><techMD ID="premisotherDerivativeFile3"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>7821bcfa45d311bed0ff1a5d73f1cd4cd43be641</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>313327</premis:size><premis:format><premis:formatDesignation><premis:formatName>application/pdf</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication><premis:dateCreatedByApplication>2013-01-18T11:49:31</premis:dateCreatedByApplication></premis:creatingApplication></premis:object></xmlData></mdWrap></techMD><techMD ID="premisocrFile3"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>b599a14955b60192d31e134f1ede9949d4d6643d</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>29500</premis:size><premis:format><premis:formatDesignation><premis:formatName>text/xml</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication><premis:creatingApplicationName>ABBYY Software LLC ABBYY FineReader Engine 8.04.1162.20</premis:creatingApplicationName></premis:creatingApplication></premis:object></xmlData></mdWrap></techMD><techMD ID="mixmasterFile4"><mdWrap LABEL="NISO still image metadata" MDTYPE="NISOIMG"><xmlData><mix:mix xmlns:mix="http://www.loc.gov/mix/"><mix:BasicImageParameters><mix:Format><mix:Compression>
+          <mix:CompressionScheme>1</mix:CompressionScheme>
+         </mix:Compression><mix:PhotometricInterpretation>
+          <mix:ColorSpace>1</mix:ColorSpace>
+         </mix:PhotometricInterpretation></mix:Format></mix:BasicImageParameters><mix:ImageCreation><mix:SourceType>microfilm</mix:SourceType><mix:ImageProducer>Minnesota Historical Society; Northern Micrographics/NMT Corporation</mix:ImageProducer><mix:ScanningSystemCapture><mix:ScanningSystemHardware>
+          <mix:ScannerManufacturer>Sunrise</mix:ScannerManufacturer>
+          <mix:ScannerModel>
+           <mix:ScannerModelName>Sunrise, 2500, SN#BS250005080E1052</mix:ScannerModelName>
+          </mix:ScannerModel>
+         </mix:ScanningSystemHardware></mix:ScanningSystemCapture></mix:ImageCreation><mix:ImagingPerformanceAssessment><mix:SpatialMetrics><mix:SamplingFrequencyUnit>2</mix:SamplingFrequencyUnit><mix:XSamplingFrequency>400</mix:XSamplingFrequency><mix:YSamplingFrequency>400</mix:YSamplingFrequency><mix:ImageWidth>6540</mix:ImageWidth><mix:ImageLength>9092</mix:ImageLength></mix:SpatialMetrics><mix:Energetics><mix:BitsPerSample>8</mix:BitsPerSample></mix:Energetics></mix:ImagingPerformanceAssessment></mix:mix></xmlData></mdWrap></techMD><techMD ID="premismasterFile4"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>cd1ed2cf7a168733f98192ec90e73d6ebe800a01</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>59462182</premis:size><premis:format><premis:formatDesignation><premis:formatName>image/tiff</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication><premis:creatingApplicationName>PolishImage v1.99.06</premis:creatingApplicationName><premis:dateCreatedByApplication>2013-10-18T17:49:12</premis:dateCreatedByApplication></premis:creatingApplication></premis:object></xmlData></mdWrap></techMD><techMD ID="mixserviceFile4"><mdWrap LABEL="NISO still image metadata" MDTYPE="NISOIMG"><xmlData><mix:mix xmlns:mix="http://www.loc.gov/mix/"><mix:BasicImageParameters><mix:Format><mix:Compression>
+         <mix:CompressionScheme>34712</mix:CompressionScheme>
+        </mix:Compression></mix:Format></mix:BasicImageParameters><mix:ImageCreation/><mix:ImagingPerformanceAssessment><mix:SpatialMetrics><mix:ImageWidth>6540</mix:ImageWidth><mix:ImageLength>9092</mix:ImageLength></mix:SpatialMetrics><mix:Energetics><mix:BitsPerSample>8</mix:BitsPerSample></mix:Energetics></mix:ImagingPerformanceAssessment></mix:mix></xmlData></mdWrap></techMD><techMD ID="premisserviceFile4"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>f3e3eb6081f880f3a9a35ab4db5ea21d0f113fee</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>1880784</premis:size><premis:format><premis:formatDesignation><premis:formatName>image/jp2</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication/></premis:object></xmlData></mdWrap></techMD><techMD ID="premisotherDerivativeFile4"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>a3a38c66d9f557c707bf631b2563f9f6cabfd6a0</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>161265</premis:size><premis:format><premis:formatDesignation><premis:formatName>application/pdf</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication><premis:dateCreatedByApplication>2013-01-18T11:49:31</premis:dateCreatedByApplication></premis:creatingApplication></premis:object></xmlData></mdWrap></techMD><techMD ID="premisocrFile4"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>048f4068d9c153eb7ed4a41749ce9af7cfdd2bd3</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>20374</premis:size><premis:format><premis:formatDesignation><premis:formatName>text/xml</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication><premis:creatingApplicationName>ABBYY Software LLC ABBYY FineReader Engine 8.04.1162.20</premis:creatingApplicationName></premis:creatingApplication></premis:object></xmlData></mdWrap></techMD><techMD ID="mixmasterFile5"><mdWrap LABEL="NISO still image metadata" MDTYPE="NISOIMG"><xmlData><mix:mix xmlns:mix="http://www.loc.gov/mix/"><mix:BasicImageParameters><mix:Format><mix:Compression>
+          <mix:CompressionScheme>1</mix:CompressionScheme>
+         </mix:Compression><mix:PhotometricInterpretation>
+          <mix:ColorSpace>1</mix:ColorSpace>
+         </mix:PhotometricInterpretation></mix:Format></mix:BasicImageParameters><mix:ImageCreation><mix:SourceType>microfilm</mix:SourceType><mix:ImageProducer>Minnesota Historical Society; Northern Micrographics/NMT Corporation</mix:ImageProducer><mix:ScanningSystemCapture><mix:ScanningSystemHardware>
+          <mix:ScannerManufacturer>Sunrise</mix:ScannerManufacturer>
+          <mix:ScannerModel>
+           <mix:ScannerModelName>Sunrise, 2500, SN#BS250005080E1052</mix:ScannerModelName>
+          </mix:ScannerModel>
+         </mix:ScanningSystemHardware></mix:ScanningSystemCapture></mix:ImageCreation><mix:ImagingPerformanceAssessment><mix:SpatialMetrics><mix:SamplingFrequencyUnit>2</mix:SamplingFrequencyUnit><mix:XSamplingFrequency>400</mix:XSamplingFrequency><mix:YSamplingFrequency>400</mix:YSamplingFrequency><mix:ImageWidth>5247</mix:ImageWidth><mix:ImageLength>8253</mix:ImageLength></mix:SpatialMetrics><mix:Energetics><mix:BitsPerSample>8</mix:BitsPerSample></mix:Energetics></mix:ImagingPerformanceAssessment></mix:mix></xmlData></mdWrap></techMD><techMD ID="premismasterFile5"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>a3acceeeed2a2cd1d4633be9dd2c35470693ea31</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>43303993</premis:size><premis:format><premis:formatDesignation><premis:formatName>image/tiff</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication><premis:creatingApplicationName>PolishImage v1.99.06</premis:creatingApplicationName><premis:dateCreatedByApplication>2013-10-18T17:49:13</premis:dateCreatedByApplication></premis:creatingApplication></premis:object></xmlData></mdWrap></techMD><techMD ID="mixserviceFile5"><mdWrap LABEL="NISO still image metadata" MDTYPE="NISOIMG"><xmlData><mix:mix xmlns:mix="http://www.loc.gov/mix/"><mix:BasicImageParameters><mix:Format><mix:Compression>
+         <mix:CompressionScheme>34712</mix:CompressionScheme>
+        </mix:Compression></mix:Format></mix:BasicImageParameters><mix:ImageCreation/><mix:ImagingPerformanceAssessment><mix:SpatialMetrics><mix:ImageWidth>5247</mix:ImageWidth><mix:ImageLength>8253</mix:ImageLength></mix:SpatialMetrics><mix:Energetics><mix:BitsPerSample>8</mix:BitsPerSample></mix:Energetics></mix:ImagingPerformanceAssessment></mix:mix></xmlData></mdWrap></techMD><techMD ID="premisserviceFile5"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>7a23141f09093b057b81e7e1a36a1c5c22f62346</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>3917029</premis:size><premis:format><premis:formatDesignation><premis:formatName>image/jp2</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication/></premis:object></xmlData></mdWrap></techMD><techMD ID="premisotherDerivativeFile5"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>994be5b73c40325a315e63e18f2d2bce05d09f30</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>327514</premis:size><premis:format><premis:formatDesignation><premis:formatName>application/pdf</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication><premis:dateCreatedByApplication>2013-01-18T11:49:31</premis:dateCreatedByApplication></premis:creatingApplication></premis:object></xmlData></mdWrap></techMD><techMD ID="premisocrFile5"><mdWrap LABEL="PREMIS object metadata" MDTYPE="OTHER" OTHERMDTYPE="PREMIS"><xmlData><premis:object xmlns:premis="http://www.loc.gov/standards/premis"><premis:objectCharacteristics><premis:fixity><premis:messageDigestAlgorithm>SHA-1</premis:messageDigestAlgorithm><premis:messageDigest>fee71e48928cb2cc0a0c5912015a6263477d8fc2</premis:messageDigest><premis:messageDigestOriginator>Library of Congress</premis:messageDigestOriginator></premis:fixity><premis:size>28995</premis:size><premis:format><premis:formatDesignation><premis:formatName>text/xml</premis:formatName></premis:formatDesignation></premis:format></premis:objectCharacteristics><premis:creatingApplication><premis:creatingApplicationName>ABBYY Software LLC ABBYY FineReader Engine 8.04.1162.20</premis:creatingApplicationName></premis:creatingApplication></premis:object></xmlData></mdWrap></techMD><digiprovMD ID="digSig"><mdWrap LABEL="Mets record validation signature" MDTYPE="OTHER" OTHERMDTYPE="XML-Signature"><xmlData><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#dsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>2wltKTjZd8vDJsp9+FmemyLQ3Qg=</DigestValue></Reference></SignedInfo><SignatureValue>NCsLJ/KJWbtwe2H/dD5nfKKIWPMqLyiKzCxApY/Co/G6FEEvpt0lPA==</SignatureValue><KeyInfo><KeyValue><DSAKeyValue><P>/X9TgR11EilS30qcLuzk5/YRt1I870QAwx4/gLZRJmlFXUAiUftZPY1Y+r/F9bow9subVWzXgTuA
+HTRv8mZgt2uZUKWkn5/oBHsQIsJPu6nX/rfGG/g7V+fGqKYVDwT7g/bTxR7DAjVUE1oWkTL2dfOu
+K2HXKu/yIgMZndFIAcc=</P><Q>l2BQjxUjC8yykrmCouuEC/BYHPU=</Q><G>9+GghdabPd7LvKtcNrhXuXmUr7v6OuqC+VdMCz0HgmdRWVeOutRZT+ZxBxCBgLRJFnEj6EwoFhO3
+zwkyjMim4TwWeotUfI0o4KOuHiuzpnWRbqN/C/ohNWLx+2J6ASQ7zKTxvqhRkImog9/hWuWfBpKL
+Zl6Ae1UlZAFMO/7PSSo=</G><Y>8JQNyzKoVvIvzueAYPDDBh9xnN5lm3a0SdNsUbnlfChwpwUeTNVDksr29Rfx+mybQpwYF8aI9M5b
+PL9XCv8XDF5dFBcv5rmbAIeXbT6KKeql+62PDlS2IHvB0ghO5PjuQTHQysfeME8l6dJpXKZqXAjZ
+txJnEOsotADakQk8aIU=</Y></DSAKeyValue></KeyValue><KeyName>NDNP.3.14</KeyName></KeyInfo></Signature></xmlData></mdWrap></digiprovMD></amdSec>
+  <fileSec>
+    <fileGrp ID="targetFileGrp1">
+      <file ADMID="mixmasterFile1 premismasterFile1" ID="masterFile1" USE="master">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-1.tif"/>
+      </file>
+      <file ADMID="mixserviceFile1 premisserviceFile1" ID="serviceFile1" USE="service">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-1.jp2"/>
+      </file>
+      <file ADMID="premisotherDerivativeFile1" ID="otherDerivativeFile1" USE="derivative">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-1.pdf"/>
+      </file>
+      <file ADMID="premisocrFile1" ID="ocrFile1" USE="ocr">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp ID="targetFileGrp2">
+      <file ADMID="mixmasterFile2 premismasterFile2" ID="masterFile2" USE="master">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-2.tif"/>
+      </file>
+      <file ADMID="mixserviceFile2 premisserviceFile2" ID="serviceFile2" USE="service">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-2.jp2"/>
+      </file>
+      <file ADMID="premisotherDerivativeFile2" ID="otherDerivativeFile2" USE="derivative">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-2.pdf"/>
+      </file>
+      <file ADMID="premisocrFile2" ID="ocrFile2" USE="ocr">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-2.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp ID="targetFileGrp3">
+      <file ADMID="mixmasterFile3 premismasterFile3" ID="masterFile3" USE="master">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0001.tif"/>
+      </file>
+      <file ADMID="mixserviceFile3 premisserviceFile3" ID="serviceFile3" USE="service">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0001.jp2"/>
+      </file>
+      <file ADMID="premisotherDerivativeFile3" ID="otherDerivativeFile3" USE="derivative">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0001.pdf"/>
+      </file>
+      <file ADMID="premisocrFile3" ID="ocrFile3" USE="ocr">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0001.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp ID="targetFileGrp4">
+      <file ADMID="mixmasterFile4 premismasterFile4" ID="masterFile4" USE="master">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0002.tif"/>
+      </file>
+      <file ADMID="mixserviceFile4 premisserviceFile4" ID="serviceFile4" USE="service">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0002.jp2"/>
+      </file>
+      <file ADMID="premisotherDerivativeFile4" ID="otherDerivativeFile4" USE="derivative">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0002.pdf"/>
+      </file>
+      <file ADMID="premisocrFile4" ID="ocrFile4" USE="ocr">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0002.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp ID="targetFileGrp5">
+      <file ADMID="mixmasterFile5 premismasterFile5" ID="masterFile5" USE="master">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0459.tif"/>
+      </file>
+      <file ADMID="mixserviceFile5 premisserviceFile5" ID="serviceFile5" USE="service">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0459.jp2"/>
+      </file>
+      <file ADMID="premisotherDerivativeFile5" ID="otherDerivativeFile5" USE="derivative">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0459.pdf"/>
+      </file>
+      <file ADMID="premisocrFile5" ID="ocrFile5" USE="ocr">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0459.xml"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap xmlns:np="urn:library-of-congress:ndnp:mets:newspaper">
+    <div ADMID="reelTechMD" TYPE="np:reel">
+      <div TYPE="np:techtargetreel">
+        <div DMDID="techTargetModsBib1" TYPE="np:target">
+          <fptr FILEID="masterFile1"/>
+          <fptr FILEID="serviceFile1"/>
+          <fptr FILEID="otherDerivativeFile1"/>
+          <fptr FILEID="ocrFile1"/>
+        </div>
+        <div DMDID="techTargetModsBib2" TYPE="np:target">
+          <fptr FILEID="masterFile2"/>
+          <fptr FILEID="serviceFile2"/>
+          <fptr FILEID="otherDerivativeFile2"/>
+          <fptr FILEID="ocrFile2"/>
+        </div>
+      </div>
+      <div DMDID="targetModsBib1" TYPE="np:target">
+        <fptr FILEID="masterFile3"/>
+        <fptr FILEID="serviceFile3"/>
+        <fptr FILEID="otherDerivativeFile3"/>
+        <fptr FILEID="ocrFile3"/>
+      </div>
+      <div DMDID="targetModsBib2" TYPE="np:target">
+        <fptr FILEID="masterFile4"/>
+        <fptr FILEID="serviceFile4"/>
+        <fptr FILEID="otherDerivativeFile4"/>
+        <fptr FILEID="ocrFile4"/>
+      </div>
+      <div DMDID="targetModsBib3" TYPE="np:target">
+        <fptr FILEID="masterFile5"/>
+        <fptr FILEID="serviceFile5"/>
+        <fptr FILEID="otherDerivativeFile5"/>
+        <fptr FILEID="ocrFile5"/>
+      </div>
+    </div>
+  </structMap>
+</mets>

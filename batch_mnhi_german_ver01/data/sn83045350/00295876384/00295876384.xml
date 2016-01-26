@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets LABEL="00295876384" PROFILE="urn:library-of-congress:mets:profiles:ndnp:microfilmReel:v1.4" TYPE="urn:library-of-congress:ndnp:mets:microfilmReel" xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:ndnp="http://www.loc.gov/ndnp">
+  <metsHdr CREATEDATE="2013-10-18T17:49:11">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Minnesota Historical Society</name>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="techTargetModsBib1">
+    <mdWrap LABEL="Tech Target metadata" MDTYPE="MODS">
+      <xmlData>
+        <mods:mods>
+          <mods:titleInfo>
+            <mods:title>Preservation Microfilm Scanner Target PMT1</mods:title>
+          </mods:titleInfo>
+          <mods:note displayLabel="Minnesota Historical Society; Saint Paul, MN" type="agencyResponsibleForReproduction">mnhi</mods:note>
+        </mods:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="techTargetModsBib2">
+    <mdWrap LABEL="Tech Target metadata" MDTYPE="MODS">
+      <xmlData>
+        <mods:mods>
+          <mods:titleInfo>
+            <mods:title>Preservation Microfilm Scanner Target PMT1</mods:title>
+          </mods:titleInfo>
+          <mods:note displayLabel="Minnesota Historical Society; Saint Paul, MN" type="agencyResponsibleForReproduction">mnhi</mods:note>
+        </mods:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="targetModsBib1">
+    <mdWrap LABEL="Target metadata" MDTYPE="MODS">
+      <xmlData>
+        <mods:mods>
+          <mods:relatedItem type="original">
+            <mods:physicalDescription>
+              <mods:form type="microfilm" />
+            </mods:physicalDescription>
+            <mods:identifier type="reel number">00295876384</mods:identifier>
+            <mods:identifier type="reel sequence number">1</mods:identifier>
+            <mods:location>
+              <mods:physicalLocation authority="marcorg" displayLabel="Minnesota Historical Society; Saint Paul, MN">mnhi</mods:physicalLocation>
+            </mods:location>
+          </mods:relatedItem>
+          <mods:note displayLabel="Minnesota Historical Society; Saint Paul, MN" type="agencyResponsibleForReproduction">mnhi</mods:note>
+        </mods:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="targetModsBib2">
+    <mdWrap LABEL="Target metadata" MDTYPE="MODS">
+      <xmlData>
+        <mods:mods>
+          <mods:relatedItem type="original">
+            <mods:physicalDescription>
+              <mods:form type="microfilm" />
+            </mods:physicalDescription>
+            <mods:identifier type="reel number">00295876384</mods:identifier>
+            <mods:identifier type="reel sequence number">2</mods:identifier>
+            <mods:location>
+              <mods:physicalLocation authority="marcorg" displayLabel="Minnesota Historical Society; Saint Paul, MN">mnhi</mods:physicalLocation>
+            </mods:location>
+          </mods:relatedItem>
+          <mods:note displayLabel="Minnesota Historical Society; Saint Paul, MN" type="agencyResponsibleForReproduction">mnhi</mods:note>
+        </mods:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="targetModsBib3">
+    <mdWrap LABEL="Target metadata" MDTYPE="MODS">
+      <xmlData>
+        <mods:mods>
+          <mods:relatedItem type="original">
+            <mods:physicalDescription>
+              <mods:form type="microfilm" />
+            </mods:physicalDescription>
+            <mods:identifier type="reel number">00295876384</mods:identifier>
+            <mods:identifier type="reel sequence number">459</mods:identifier>
+            <mods:location>
+              <mods:physicalLocation authority="marcorg" displayLabel="Minnesota Historical Society; Saint Paul, MN">mnhi</mods:physicalLocation>
+            </mods:location>
+          </mods:relatedItem>
+          <mods:note displayLabel="Minnesota Historical Society; Saint Paul, MN" type="agencyResponsibleForReproduction">mnhi</mods:note>
+        </mods:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="reelTechMD">
+      <mdWrap LABEL="NDNP technical metadata for microfilm reel" MDTYPE="OTHER" OTHERMDTYPE="NDNP Reel Technical Metadata">
+        <xmlData>
+          <ndnp:reelTechMD>
+            <ndnp:titles>Der Nordstern (St. Cloud, Minn.)</ndnp:titles>
+            <ndnp:startDate>1877-12-27</ndnp:startDate>
+            <ndnp:endDate>1878-12-26</ndnp:endDate>
+            <ndnp:position>1a</ndnp:position>
+            <ndnp:reductionRatio>12x</ndnp:reductionRatio>
+            <ndnp:captureResolutionOriginal measurement="pixels/inch">400</ndnp:captureResolutionOriginal>
+            <ndnp:resolutionOfMaster>7.1</ndnp:resolutionOfMaster>
+            <ndnp:resolutionOfDuplicateNegative>6.3</ndnp:resolutionOfDuplicateNegative>
+          </ndnp:reelTechMD>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp ID="targetFileGrp1">
+      <file ID="masterFile1" USE="master">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-1.tif" />
+      </file>
+      <file ID="serviceFile1" USE="service">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-1.jp2" />
+      </file>
+      <file ID="otherDerivativeFile1" USE="derivative">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-1.pdf" />
+      </file>
+      <file ID="ocrFile1" USE="ocr">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-1.xml" />
+      </file>
+    </fileGrp>
+    <fileGrp ID="targetFileGrp2">
+      <file ID="masterFile2" USE="master">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-2.tif" />
+      </file>
+      <file ID="serviceFile2" USE="service">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-2.jp2" />
+      </file>
+      <file ID="otherDerivativeFile2" USE="derivative">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-2.pdf" />
+      </file>
+      <file ID="ocrFile2" USE="ocr">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./PMT_target-2.xml" />
+      </file>
+    </fileGrp>
+    <fileGrp ID="targetFileGrp3">
+      <file ID="masterFile3" USE="master">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0001.tif" />
+      </file>
+      <file ID="serviceFile3" USE="service">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0001.jp2" />
+      </file>
+      <file ID="otherDerivativeFile3" USE="derivative">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0001.pdf" />
+      </file>
+      <file ID="ocrFile3" USE="ocr">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0001.xml" />
+      </file>
+    </fileGrp>
+    <fileGrp ID="targetFileGrp4">
+      <file ID="masterFile4" USE="master">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0002.tif" />
+      </file>
+      <file ID="serviceFile4" USE="service">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0002.jp2" />
+      </file>
+      <file ID="otherDerivativeFile4" USE="derivative">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0002.pdf" />
+      </file>
+      <file ID="ocrFile4" USE="ocr">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0002.xml" />
+      </file>
+    </fileGrp>
+    <fileGrp ID="targetFileGrp5">
+      <file ID="masterFile5" USE="master">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0459.tif" />
+      </file>
+      <file ID="serviceFile5" USE="service">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0459.jp2" />
+      </file>
+      <file ID="otherDerivativeFile5" USE="derivative">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0459.pdf" />
+      </file>
+      <file ID="ocrFile5" USE="ocr">
+        <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0459.xml" />
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap xmlns:np="urn:library-of-congress:ndnp:mets:newspaper">
+    <div ADMID="reelTechMD" TYPE="np:reel">
+      <div TYPE="np:techtargetreel">
+        <div DMDID="techTargetModsBib1" TYPE="np:target">
+          <fptr FILEID="masterFile1" />
+          <fptr FILEID="serviceFile1" />
+          <fptr FILEID="otherDerivativeFile1" />
+          <fptr FILEID="ocrFile1" />
+        </div>
+        <div DMDID="techTargetModsBib2" TYPE="np:target">
+          <fptr FILEID="masterFile2" />
+          <fptr FILEID="serviceFile2" />
+          <fptr FILEID="otherDerivativeFile2" />
+          <fptr FILEID="ocrFile2" />
+        </div>
+      </div>
+      <div DMDID="targetModsBib1" TYPE="np:target">
+        <fptr FILEID="masterFile3" />
+        <fptr FILEID="serviceFile3" />
+        <fptr FILEID="otherDerivativeFile3" />
+        <fptr FILEID="ocrFile3" />
+      </div>
+      <div DMDID="targetModsBib2" TYPE="np:target">
+        <fptr FILEID="masterFile4" />
+        <fptr FILEID="serviceFile4" />
+        <fptr FILEID="otherDerivativeFile4" />
+        <fptr FILEID="ocrFile4" />
+      </div>
+      <div DMDID="targetModsBib3" TYPE="np:target">
+        <fptr FILEID="masterFile5" />
+        <fptr FILEID="serviceFile5" />
+        <fptr FILEID="otherDerivativeFile5" />
+        <fptr FILEID="ocrFile5" />
+      </div>
+    </div>
+  </structMap>
+</mets>
+
