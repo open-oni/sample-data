@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets TYPE="urn:library-of-congress:ndnp:mets:microfilmReel" PROFILE="urn:library-of-congress:mets:profiles:ndnp:microfilmReel:v1.4" LABEL="0020653817A" 
+     xmlns:mix="http://www.loc.gov/mix/" xmlns:ndnp="http://www.loc.gov/ndnp" xmlns:premis="http://www.loc.gov/standards/premis" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="http://www.loc.gov/METS/">
+
+     <!--METS HEADER-->
+     <metsHdr CREATEDATE="2008-05-23T15:11:38">
+        <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+            <name>University of Nebraska-Lincoln Libraries</name>
+        </agent>
+    </metsHdr>
+
+	 	 	 
+	<dmdSec ID="techTargetModsBib">
+		<mdWrap MDTYPE="MODS" LABEL="Tech Target metadata">
+			<xmlData>
+				<mods:mods>
+					<mods:titleInfo>
+						<mods:title>ISO 16067 Calibrated Target</mods:title>
+					</mods:titleInfo>
+                    <mods:note type="agencyResponsibleForReproduction" displayLabel="University of Nebraska-Lincoln Libraries, Lincoln, NE">NbU</mods:note>
+				</mods:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+
+    <dmdSec ID="targetModsBib3">                
+        <mdWrap MDTYPE="MODS" LABEL="Target metadata">
+            <xmlData>
+                <mods:mods>
+                    <mods:relatedItem type="original">
+						<mods:physicalDescription>
+							<mods:form type="microfilm"/>
+						</mods:physicalDescription>                        
+                        <mods:identifier type="reel number">0020653817A</mods:identifier>
+                         <mods:identifier type="reel sequence number">1</mods:identifier>
+                        <mods:location>
+                        <mods:physicalLocation authority="marcorg" displayLabel="Nebraska State Historical Society, Lincoln, NE">NbHi</mods:physicalLocation>
+                        </mods:location>
+                    </mods:relatedItem>
+                    <mods:note type="agencyResponsibleForReproduction" displayLabel="University of Nebraska-Lincoln Libraries, Lincoln, NE">NbU</mods:note>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+    
+                    
+    <amdSec>
+        <!--TECHNICAL METADATA-->
+        
+        <techMD ID="reelTechMD">
+            <mdWrap MDTYPE="OTHER" OTHERMDTYPE="NDNP Reel Technical Metadata" LABEL="NDNP technical metadata for microfilm reel">
+                <xmlData>
+                    <ndnp:reelTechMD>
+                        <ndnp:titles>The Omaha Daily Bee</ndnp:titles>
+                        <ndnp:startDate>1887-03-03</ndnp:startDate>
+                        <ndnp:endDate>1887-07-05</ndnp:endDate>
+                        <ndnp:position>1b</ndnp:position>
+                        <ndnp:reductionRatio>20x</ndnp:reductionRatio>
+                        <ndnp:captureResolutionOriginal measurement="pixels/inch">300</ndnp:captureResolutionOriginal>
+                        <ndnp:captureResolutionFilm measurement="pixels/inch">6000</ndnp:captureResolutionFilm>
+                        <ndnp:guideToContentsPresentFlag>false</ndnp:guideToContentsPresentFlag>
+                        <ndnp:dateMicrofilmCreated>1952</ndnp:dateMicrofilmCreated>
+                        <ndnp:looseLeavesFlag>true</ndnp:looseLeavesFlag>
+                        <ndnp:boundVolumeFlag>false</ndnp:boundVolumeFlag>
+                        <ndnp:comments>Sunday Bee is 12 pages long</ndnp:comments>
+                        <ndnp:dimensions>18x24 in.</ndnp:dimensions>
+                        <ndnp:pagesPerIssue>8</ndnp:pagesPerIssue>
+                        <ndnp:numberOfResolutionTargets>2</ndnp:numberOfResolutionTargets>
+                        <ndnp:densityReadingMaster>1.13</ndnp:densityReadingMaster>
+                        <ndnp:densityReadingMaster>1.19</ndnp:densityReadingMaster>
+                        <ndnp:densityReadingMaster>1.06</ndnp:densityReadingMaster>
+                        <ndnp:densityReadingMaster>1.15</ndnp:densityReadingMaster>
+                        <ndnp:densityReadingMaster>1.27</ndnp:densityReadingMaster>
+                        <ndnp:densityReadingMaster>1.36</ndnp:densityReadingMaster>
+                        <ndnp:densityReadingMaster>0.97</ndnp:densityReadingMaster>
+                        <ndnp:densityReadingMaster>0.88</ndnp:densityReadingMaster>
+                        <ndnp:densityReadingMaster>1.14</ndnp:densityReadingMaster>
+                        <ndnp:densityReadingMaster>1.08</ndnp:densityReadingMaster>
+                        <ndnp:averageDensityMaster>1.123</ndnp:averageDensityMaster>
+                        <ndnp:dminMaster>0.07</ndnp:dminMaster>
+                        <ndnp:densityReadingDuplicateNegative>1.57</ndnp:densityReadingDuplicateNegative>
+                        <ndnp:densityReadingDuplicateNegative>1.31</ndnp:densityReadingDuplicateNegative>
+                        <ndnp:densityReadingDuplicateNegative>1.35</ndnp:densityReadingDuplicateNegative>
+                        <ndnp:densityReadingDuplicateNegative>1.3</ndnp:densityReadingDuplicateNegative>
+                        <ndnp:densityReadingDuplicateNegative>1.27</ndnp:densityReadingDuplicateNegative>
+                        <ndnp:densityReadingDuplicateNegative>1.51</ndnp:densityReadingDuplicateNegative>
+                        <ndnp:densityReadingDuplicateNegative>1.4</ndnp:densityReadingDuplicateNegative>
+                        <ndnp:densityReadingDuplicateNegative>1.37</ndnp:densityReadingDuplicateNegative>
+                        <ndnp:densityReadingDuplicateNegative>1.47</ndnp:densityReadingDuplicateNegative>
+                        <ndnp:densityReadingDuplicateNegative>1.67</ndnp:densityReadingDuplicateNegative>
+                        <ndnp:averageDensityDuplicateNegative>1.422</ndnp:averageDensityDuplicateNegative>
+                        <ndnp:dminDuplicateNegative>0.13</ndnp:dminDuplicateNegative>
+                    </ndnp:reelTechMD>
+                </xmlData>
+            </mdWrap>
+        </techMD>                    
+    </amdSec>
+    
+    <!--FILE SECTION-->
+    <fileSec>
+        
+
+        <fileGrp ID="targetFileGrp1">
+            <file ID="masterFile1" USE="master" >
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0000.tif" />                                    
+            </file>
+            <file ID="serviceFile1" USE="service" >               
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0000.jp2" />                                                
+            </file>
+            <file ID="otherDerivativeFile1" USE="derivative" >               
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0000.pdf" />                                                
+            </file>            
+            <file ID="ocrFile1" USE="ocr" >               
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0000.xml" />                                                
+            </file>                       
+        </fileGrp>
+                
+        
+
+        <fileGrp ID="targetFileGrp2">
+            <file ID="masterFile2" USE="master" >
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0001.tif" />                                    
+            </file>
+            <file ID="serviceFile2" USE="service" >               
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0001.jp2" />                                                
+            </file>
+            <file ID="otherDerivativeFile2" USE="derivative" >               
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0001.pdf" />                                                
+            </file>            
+            <file ID="ocrFile2" USE="ocr" >               
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0001.xml" />                                                
+            </file>                       
+        </fileGrp>
+                
+        
+
+        <fileGrp ID="targetFileGrp3">
+            <file ID="masterFile3" USE="master" >
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0002.tif" />                                    
+            </file>
+            <file ID="serviceFile3" USE="service" >               
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0002.jp2" />                                                
+            </file>
+            <file ID="otherDerivativeFile3" USE="derivative" >               
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0002.pdf" />                                                
+            </file>            
+            <file ID="ocrFile3" USE="ocr" >               
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0002.xml" />                                                
+            </file>                       
+        </fileGrp>
+                
+    </fileSec>
+
+    <!--STRUCTURAL MAP-->    
+    <structMap xmlns:np="urn:library-of-congress:ndnp:mets:newspaper">
+        <div TYPE="np:reel" ADMID="reelTechMD">
+            <div TYPE="np:techtargetreel">
+                <div TYPE="np:target" DMDID="techTargetModsBib">
+                    <fptr FILEID="masterFile1" />
+                    <fptr FILEID="serviceFile1" />
+                    <fptr FILEID="otherDerivativeFile1" />
+                    <fptr FILEID="ocrFile1" />
+                </div>                
+                <!--div repeated for each target.  There must be 5.-->        
+
+                <div TYPE="np:target" DMDID="techTargetModsBib">
+                    <fptr FILEID="masterFile2" />
+                    <fptr FILEID="serviceFile2" />
+                    <fptr FILEID="otherDerivativeFile2" />
+                    <fptr FILEID="ocrFile2" />
+                </div>                
+                <!--div repeated for each target.  There must be 5.-->        
+
+
+            </div>
+            
+            
+            <div TYPE="np:target" DMDID="targetModsBib3">
+                <fptr FILEID="masterFile3" />
+                <fptr FILEID="serviceFile3" />
+                <fptr FILEID="otherDerivativeFile3" />
+                <fptr FILEID="ocrFile3" />
+            </div>                
+            
+        </div>
+    </structMap>
+    
+</mets>

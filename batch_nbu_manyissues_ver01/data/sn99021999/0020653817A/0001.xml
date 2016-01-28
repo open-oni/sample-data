@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://schema.ccs-gmbh.com/ALTO"><Description><MeasurementUnit>inch1200</MeasurementUnit><sourceImageInformation><fileName>/mnt/lustre01.iarchives.com/lustre01/root/projects/production/newspaper/UNL/NDNP2/The_Omaha_Daily_Bee/071_Om1bn-0018/ocr/0002.tif</fileName></sourceImageInformation><OCRProcessing ID="OCR0"><ocrProcessingStep><processingStepSettings>DictionaryFlagsUsed:D
+useAbbyy4:0
+suggestionCount:0
+enableLog:1
+lexicondirectory:\jobq\caches\lex\wintertree\
+Substitute:o,e
+useIris:0
+useCaere:0
+version:Newpah v2.36 Luxmortis
+monkeyTimeout:1800
+conjoinWords:1
+page-reoriented:UP
+Predicted Word Accuracy:100%
+useScansoft11:0
+Abbyy6OCREngine STAT BLOCK:STATBLOCK_Abbyy6OCREngine;0;0;0;0
+ImgPrep Component Range:9285,9370
+cachePath:/jobq/caches/newpah_legacy
+Abbyy6OCREngine Predicted Accuracy:0%
+Abbyy6OCREngine Character Error Ratio:0
+language:en
+Abbyy6OCREngine Character Count:0
+dictionaryFlag.D:American-English
+dictionaryOn:1
+ImgPrep Component Count Low Estimate:9285
+multipleEngineWeight:0
+configFile:/jobq/caches/newpah_legacy/config/newpah_aw_x.xml
+suppressPunctuation:false
+verboseOutput:false
+Node Count:0
+text-orientation:UP
+trimwords:0
+ImgPrep Component Count High Estimate:9370
+splitwords:0
+spawned:1
+width:11445
+height:8160
+xdpi:300
+ydpi:300
+</processingStepSettings><processingSoftware><softwareCreator>iArchives</softwareCreator><softwareName>Newpah</softwareName><softwareVersion>v2.36</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing></Description><Layout><Page ID="PAGE0" HEIGHT="32640" WIDTH="45780" PHYSICAL_IMG_NR="2" PROCESSING="OCR0"/></Layout></alto>

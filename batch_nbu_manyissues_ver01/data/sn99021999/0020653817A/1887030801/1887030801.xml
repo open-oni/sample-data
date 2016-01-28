@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets TYPE="urn:library-of-congress:ndnp:mets:newspaper:issue" PROFILE="urn:library-of-congress:mets:profiles:ndnp:issue:v1.5" LABEL="The Omaha Daily Bee, 1887-03-08" 
+     xmlns:mix="http://www.loc.gov/mix/" xmlns:ndnp="http://www.loc.gov/ndnp" xmlns:premis="http://www.oclc.org/premis" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/" >
+
+     <!--METS HEADER-->
+     <metsHdr CREATEDATE="2008-05-23T15:11:40">
+        <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+            <name>University of Nebraska-Lincoln Libraries</name>
+        </agent>
+    </metsHdr>
+
+    <!--DESCRIPTIVE METADATA-->
+    
+    <dmdSec ID="issueModsBib">                
+        <mdWrap MDTYPE="MODS" LABEL="Issue metadata">
+            <xmlData>
+                <mods:mods>
+                    <mods:relatedItem type="host">
+                        <mods:identifier type="lccn">sn99021999</mods:identifier>
+                        <mods:part>
+                            <mods:detail type="issue">
+                                <mods:number>262</mods:number>
+                            </mods:detail>
+                            <mods:detail type="edition">
+                                <mods:number>1</mods:number>
+                            </mods:detail>
+                        </mods:part>
+                    </mods:relatedItem>
+                    <mods:originInfo>
+                        <mods:dateIssued encoding="iso8601">1887-03-08</mods:dateIssued>
+                    </mods:originInfo>
+                    <mods:note type="noteAboutReproduction">Present</mods:note>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+
+  
+ 
+    <dmdSec ID="pageModsBib1">
+        <mdWrap MDTYPE="MODS" LABEL="Page metadata">
+            <xmlData>
+                <mods:mods>
+                    <mods:part>                        
+                        <mods:extent unit="pages">
+                            <mods:start>1</mods:start>
+                        </mods:extent>
+                    </mods:part>
+                    <mods:relatedItem type="original">
+						<mods:physicalDescription>
+							<mods:form type="microfilm"/>
+						</mods:physicalDescription>                        
+                        
+                        <mods:identifier type="reel number">0020653817A</mods:identifier>
+                         <mods:identifier type="reel sequence number">47</mods:identifier>
+                        <mods:location>
+                        <mods:physicalLocation authority="marcorg" displayLabel="Nebraska State Historical Society, Lincoln, NE">NbHi</mods:physicalLocation>
+                        </mods:location>
+                    </mods:relatedItem>
+                    <mods:note type="agencyResponsibleForReproduction" displayLabel="University of Nebraska-Lincoln Libraries, Lincoln, NE">NbU</mods:note>
+                    <mods:note type="noteAboutReproduction" >Present</mods:note>
+                </mods:mods>
+            </xmlData>
+        </mdWrap>
+    </dmdSec>
+
+    <!--FILE SECTION-->
+    <fileSec>
+        
+        <fileGrp ID="pageFileGrp1">
+            <file ID="masterFile1" USE="master" >               
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0048.tif" />                                    
+            </file>
+            <file ID="serviceFile1" USE="service" >               
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0048.jp2" />                                                
+            </file>
+            <file ID="otherDerivativeFile1" USE="derivative" >               
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0048.pdf" />                                                
+            </file>            
+            <file ID="ocrFile1" USE="ocr" >               
+                <FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="0048.xml" />                                                
+            </file>                       
+        </fileGrp>
+                
+    </fileSec>
+
+    <!--STRUCTURAL MAP-->    
+    <structMap xmlns:np="urn:library-of-congress:ndnp:mets:newspaper">
+        <div TYPE="np:issue" DMDID="issueModsBib">
+                 <div TYPE="np:page" DMDID="pageModsBib1">
+                    <fptr FILEID="masterFile1" />
+                    <fptr FILEID="serviceFile1" />
+                    <fptr FILEID="otherDerivativeFile1" />
+                    <fptr FILEID="ocrFile1" />
+                </div>
+ 
+        </div>         
+    </structMap>
+
+ </mets>

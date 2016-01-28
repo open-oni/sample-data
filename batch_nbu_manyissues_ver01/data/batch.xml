@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<batch xmlns:ndnp="http://www.loc.gov/ndnp" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/ndnp" name="batch_ne_20080529_chadron">
+
+ <!--ISSUE-->
+ <issue lccn="sn99021999" issueDate="1887-03-03" editionOrder="1" >./sn99021999/0020653817A/1887030301/1887030301.xml</issue>
+ <issue lccn="sn99021999" issueDate="1887-03-04" editionOrder="1" >./sn99021999/0020653817A/1887030401/1887030401.xml</issue>
+ <issue lccn="sn99021999" issueDate="1887-03-05" editionOrder="1" >./sn99021999/0020653817A/1887030501/1887030501.xml</issue>
+ <issue lccn="sn99021999" issueDate="1887-03-06" editionOrder="1" >./sn99021999/0020653817A/1887030601/1887030601.xml</issue>
+ <issue lccn="sn99021999" issueDate="1887-03-07" editionOrder="1" >./sn99021999/0020653817A/1887030701/1887030701.xml</issue>
+ <issue lccn="sn99021999" issueDate="1887-03-08" editionOrder="1" >./sn99021999/0020653817A/1887030801/1887030801.xml</issue>
+ <issue lccn="sn99021999" issueDate="1887-03-09" editionOrder="1" >./sn99021999/0020653817A/1887030901/1887030901.xml</issue>
+ <issue lccn="sn99021999" issueDate="1887-03-10" editionOrder="1" >./sn99021999/0020653817A/1887031001/1887031001.xml</issue>
+ <issue lccn="sn99021999" issueDate="1887-03-11" editionOrder="1" >./sn99021999/0020653817A/1887031101/1887031101.xml</issue>
+
+ <!--REEL-->
+ <reel reelNumber="0020653817A" >./sn99021999/0020653817A/0020653817A.xml</reel>
+
+</batch>
