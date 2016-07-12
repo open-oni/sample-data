@@ -6,7 +6,7 @@ Small batches that can be used in development installations of Open ONI
 This repository is intended to be used with the [Open ONI](https://github.com/open-oni/open-oni) repository.
 The batches included in this repository are valid enough that they can be loaded into the software.  However, they are complete nor polished batches.
 
-Clone the repository.  Then, set up a symlink, copy, or move batches to your Open ONI `data/batches` directory (or the `data` directory if you are using the docker setup).
+Clone the repository.  Then, set up a symlink, copy, or move batches to your Open ONI `data/batches` directory (or the `docker/data` directory if you are using the docker setup).
 
 From inside of the Open ONI app:
 
