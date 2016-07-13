@@ -1,5 +1,6 @@
-# Open ONI Sample Batches
-Small batches that can be used in development installations of Open ONI
+# Open ONI Sample Data
+
+Small batches that can be used in development installations of Open ONI... and other miscellaneous files.
 
 ### Loading a Batch
 
@@ -24,3 +25,7 @@ If you are using docker development environment, please see the [docker](https:/
 | --- | --- | --- | --- |
 | mnhi_german | 1 issue of 8 pages | German | [LoC](http://chroniclingamerica.loc.gov/batches/batch_mnhi_uhaul_ver01/) |
 | nbu_manyissues | 9 issues of 1 page | English | [LoC](http://chroniclingamerica.loc.gov/batches/batch_nbu_chadron_ver01/) |
+
+### env.tar.gz
+
+If you're using our Docker setup but can't get the install working, it may be due to an inability to fetch dependencies.  Try removing your local ENV directory and extracting our `env.tar.gz` file.  This should provide a suitable base for using Docker.
