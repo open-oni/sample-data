@@ -16,7 +16,7 @@ source /opt/openoni/ENV/bin/activate
 django-admin.py load_batch /batches/prefix_batchname/batch_prefix_name_ver01
 ```
 
-If you are using docker development environment, please see the [docker](https://github.com/open-oni/open-oni/blob/master/docker/README.md) readme for instructions for loading a batch when using docker containers.
+If you are using docker development environment, please see the [docker](https://github.com/open-oni/open-oni/wiki/Docker) wiki pages for instructions for loading a batch when using docker containers.
 
 ### Batch Description
 
