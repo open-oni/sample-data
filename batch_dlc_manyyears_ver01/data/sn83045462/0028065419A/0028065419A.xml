@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets TYPE="urn:library-of-congress:ndnp:mets:microfilmReel" PROFILE="urn:library-of-congress:mets:profiles:ndnp:microfilmReel:v1.4" LABEL="0028065419A"   xmlns:mix="http://www.loc.gov/mix/" xmlns:ndnp="http://www.loc.gov/ndnp" xmlns:premis="http://www.loc.gov/standards/premis" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ ../schema/ndnpmets.v1-4.xsd http://www.loc.gov/mods/v3 ../schema/ndnpmods-3-1.xsd http://www.loc.gov/ndnp ../schema/ndnp.xsd http://www.loc.gov/standards/premis ../schema/object.xsd http://www.loc.gov/mix/ http://www.loc.gov/standards/mix/mix.xsd http://www.w3.org/2000/09/xmldsig# ../schema/xmldsig-core-schema.xsd">
+<metsHdr CREATEDATE="2012-12-13T08:01:43">
+<agent ROLE="CREATOR" TYPE="ORGANIZATION">
+<name>Library of Congress, Washington, DC</name>
+</agent>
+</metsHdr>
+<dmdSec ID="targetModsBib1">
+<mdWrap MDTYPE="MODS" LABEL="Tech Target metadata">
+<xmlData>
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Preservation Microfilm Scanner Target PMT1</mods:title>
+</mods:titleInfo>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<dmdSec ID="targetModsBib2">
+<mdWrap MDTYPE="MODS" LABEL="Tech Target metadata">
+<xmlData>
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Preservation Microfilm Scanner Target PMT1</mods:title>
+</mods:titleInfo>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<dmdSec ID="targetModsBib3">
+<mdWrap MDTYPE="MODS" LABEL="Tech Target metadata">
+<xmlData>
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Preservation Microfilm Scanner Target PMT1</mods:title>
+</mods:titleInfo>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<dmdSec ID="targetModsBib4">
+<mdWrap MDTYPE="MODS" LABEL="Tech Target metadata">
+<xmlData>
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Preservation Microfilm Scanner Target PMT1</mods:title>
+</mods:titleInfo>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<dmdSec ID="targetModsBib5">
+<mdWrap MDTYPE="MODS" LABEL="Tech Target metadata">
+<xmlData>
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Preservation Microfilm Scanner Target PMT1</mods:title>
+</mods:titleInfo>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<dmdSec ID="targetModsBib6">
+<mdWrap MDTYPE="MODS" LABEL="Target metadata">
+<xmlData>
+<mods:mods>
+<mods:relatedItem type="original">
+<mods:physicalDescription><mods:form type="microfilm" /></mods:physicalDescription>
+<mods:identifier type="reel number">0028065419A</mods:identifier>
+<mods:identifier type="reel sequence number">6</mods:identifier>
+<mods:location>
+<mods:physicalLocation authority="marcorg" displayLabel="Library of Congress, Washington, DC">dlc</mods:physicalLocation>
+</mods:location>
+</mods:relatedItem>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<amdSec>
+<techMD ID="reelTechMD">
+<mdWrap MDTYPE="OTHER" OTHERMDTYPE="NDNP Reel Technical Metadata" LABEL="NDNP technical metadata for microfilm reel">
+<xmlData>
+<ndnp:reelTechMD>
+<ndnp:titles>Evening star (Washington, D.C.)</ndnp:titles>
+<ndnp:startDate>1862-08-25</ndnp:startDate>
+<ndnp:endDate>1863-03-21</ndnp:endDate>
+<ndnp:position>1a</ndnp:position>
+<ndnp:reductionRatio>1:22</ndnp:reductionRatio>
+<ndnp:guideToContentsPresentFlag>true</ndnp:guideToContentsPresentFlag>
+<ndnp:guideToContentsString>The Evening Star, Washington, D.C., August 24, 1862 to March 21, 1863. Microfilmed by the Library of Congress Photoduplication Service</ndnp:guideToContentsString>
+<ndnp:looseLeavesFlag>true</ndnp:looseLeavesFlag>
+<ndnp:boundVolumeFlag>false</ndnp:boundVolumeFlag>
+<ndnp:dimensions>22x33 in.</ndnp:dimensions>
+<ndnp:pagesPerIssue>4</ndnp:pagesPerIssue>
+<ndnp:numberOfResolutionTargets>0</ndnp:numberOfResolutionTargets>
+</ndnp:reelTechMD>
+</xmlData>
+</mdWrap>
+</techMD>       
+</amdSec>
+<fileSec>
+</fileSec>
+<structMap xmlns:np="urn:library-of-congress:ndnp:mets:newspaper">
+<div TYPE="np:reel" ADMID="reelTechMD">
+ <div TYPE="np:techtargetreel"> 
+ </div>
+</structMap>  
+</mets>

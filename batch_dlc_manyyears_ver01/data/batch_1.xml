@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ndnp:batch name="batch_dlc_leonberger" awardee="dlc" awardYear="2011" xmlns:ndnp="http://www.loc.gov/ndnp">
+    <ndnp:issue lccn="sn83045462" issueDate="1859-02-21" editionOrder="1">sn83045462/00280654139/1859022101/1859022101_1.xml</ndnp:issue>
+    <ndnp:issue lccn="sn83045462" issueDate="1860-01-02" editionOrder="1">sn83045462/00280654140/1860010201/1860010201_1.xml</ndnp:issue>
+    <ndnp:issue lccn="sn83045462" issueDate="1861-07-19" editionOrder="1">sn83045462/00280654176/1861071901/1861071901_1.xml</ndnp:issue>
+    <ndnp:issue lccn="sn83045462" issueDate="1862-08-25" editionOrder="1">sn83045462/0028065419A/1862082501/1862082501_1.xml</ndnp:issue>
+    <ndnp:issue lccn="sn83045462" issueDate="1863-01-01" editionOrder="1">sn83045462/0028065419A/1863010101/1863010101_1.xml</ndnp:issue>
+    <ndnp:issue lccn="sn83045462" issueDate="1865-10-02" editionOrder="1">sn83045462/00280654255/1865100201/1865100201_1.xml</ndnp:issue>
+    <ndnp:issue lccn="sn83045462" issueDate="1866-04-30" editionOrder="1">sn83045462/00280654255/1866043001/1866043001_1.xml</ndnp:issue>
+    <ndnp:issue lccn="sn83045462" issueDate="1867-01-01" editionOrder="1">sn83045462/00280654280/1867010101/1867010101_1.xml</ndnp:issue>
+    <ndnp:issue lccn="sn83045462" issueDate="1868-05-19" editionOrder="1">sn83045462/00280654309/1868051901/1868051901_1.xml</ndnp:issue>
+    <ndnp:issue lccn="sn83045462" issueDate="1869-07-31" editionOrder="1">sn83045462/00280654322/1869073101/1869073101_1.xml</ndnp:issue>
+    <ndnp:issue lccn="sn83045462" issueDate="1870-03-15" editionOrder="1">sn83045462/00280654334/1870031501/1870031501_1.xml</ndnp:issue>
+    <ndnp:reel reelNumber="00280654334">sn83045462/00280654334/00280654334_1.xml</ndnp:reel>
+    <ndnp:reel reelNumber="00280654322">sn83045462/00280654322/00280654322_1.xml</ndnp:reel>
+    <ndnp:reel reelNumber="00280654309">sn83045462/00280654309/00280654309_1.xml</ndnp:reel>
+    <ndnp:reel reelNumber="00280654280">sn83045462/00280654280/00280654280_1.xml</ndnp:reel>
+    <ndnp:reel reelNumber="00280654255">sn83045462/00280654255/00280654255_1.xml</ndnp:reel>
+    <ndnp:reel reelNumber="0028065419A">sn83045462/0028065419A/0028065419A_1.xml</ndnp:reel>
+    <ndnp:reel reelNumber="00280654176">sn83045462/00280654176/00280654176_1.xml</ndnp:reel>
+    <ndnp:reel reelNumber="00280654140">sn83045462/00280654140/00280654140_1.xml</ndnp:reel>
+    <ndnp:reel reelNumber="00280654139">sn83045462/00280654139/00280654139_1.xml</ndnp:reel>
+</ndnp:batch>

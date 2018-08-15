@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets TYPE="urn:library-of-congress:ndnp:mets:newspaper:issue" PROFILE="urn:library-of-congress:mets:profiles:ndnp:issue:v1.5" LABEL="The Evening star, 1867-01-01"     xmlns:mix="http://www.loc.gov/mix/" xmlns:ndnp="http://www.loc.gov/ndnp" xmlns:premis="http://www.oclc.org/premis" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ ../schema/ndnpmets.v1-4.xsd http://www.loc.gov/mods/v3 ../schema/ndnpmods-3-0.xsd http://www.loc.gov/ndnp ../schema/ndnp.xsd http://www.oclc.org/premis ../schema/object.xsd http://www.loc.gov/mix/ http://www.loc.gov/standards/mix/mix.xsd http://www.w3.org/2000/09/xmldsig# http://www.w3.org/TR/xmldsig-core/xmldsig-core-schema.xsd">
+<metsHdr CREATEDATE="2012-12-03T19:43:39">
+<agent ROLE="CREATOR" TYPE="ORGANIZATION">
+<name>Library of Congress, Washington, DC</name>
+</agent>
+</metsHdr>
+<dmdSec ID="issueModsBib">
+<mdWrap MDTYPE="MODS" LABEL="Issue metadata">
+<xmlData>
+<mods:mods>
+<mods:relatedItem type="host">
+<mods:identifier type="lccn">sn83045462</mods:identifier>
+<mods:part>
+<mods:detail type="volume">
+<mods:number>29</mods:number>
+</mods:detail>
+<mods:detail type="issue">
+<mods:number>4,311</mods:number>
+</mods:detail>
+<mods:detail type="edition">
+<mods:number>1</mods:number>
+</mods:detail>
+</mods:part>
+</mods:relatedItem>
+<mods:originInfo>
+<mods:dateIssued encoding="iso8601">1867-01-01</mods:dateIssued>
+</mods:originInfo>
+<mods:note type="noteAboutReproduction">Present</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<dmdSec ID="pageModsBib1">
+<mdWrap MDTYPE="MODS" LABEL="Page metadata">
+<xmlData>
+<mods:mods>
+<mods:part>
+<mods:extent unit="pages">
+<mods:start>1</mods:start>
+</mods:extent>
+</mods:part>
+<mods:relatedItem type="original">
+<mods:physicalDescription><mods:form type="microfilm" /></mods:physicalDescription>
+<mods:identifier type="reel number">00280654280</mods:identifier>
+<mods:identifier type="reel sequence number">187</mods:identifier>
+<mods:location>
+<mods:physicalLocation authority="marcorg" displayLabel="Library of Congress, Washington, DC">dlc</mods:physicalLocation>
+</mods:location>
+</mods:relatedItem>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+<mods:note type="noteAboutReproduction">Present</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<dmdSec ID="pageModsBib2">
+<mdWrap MDTYPE="MODS" LABEL="Page metadata">
+<xmlData>
+<mods:mods>
+<mods:part>
+<mods:extent unit="pages">
+<mods:start>2</mods:start>
+</mods:extent>
+</mods:part>
+<mods:relatedItem type="original">
+<mods:physicalDescription><mods:form type="microfilm" /></mods:physicalDescription>
+<mods:identifier type="reel number">00280654280</mods:identifier>
+<mods:identifier type="reel sequence number">188</mods:identifier>
+<mods:location>
+<mods:physicalLocation authority="marcorg" displayLabel="Library of Congress, Washington, DC">dlc</mods:physicalLocation>
+</mods:location>
+</mods:relatedItem>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+<mods:note type="noteAboutReproduction">Present</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<dmdSec ID="pageModsBib3">
+<mdWrap MDTYPE="MODS" LABEL="Page metadata">
+<xmlData>
+<mods:mods>
+<mods:part>
+<mods:extent unit="pages">
+<mods:start>3</mods:start>
+</mods:extent>
+</mods:part>
+<mods:relatedItem type="original">
+<mods:physicalDescription><mods:form type="microfilm" /></mods:physicalDescription>
+<mods:identifier type="reel number">00280654280</mods:identifier>
+<mods:identifier type="reel sequence number">189</mods:identifier>
+<mods:location>
+<mods:physicalLocation authority="marcorg" displayLabel="Library of Congress, Washington, DC">dlc</mods:physicalLocation>
+</mods:location>
+</mods:relatedItem>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+<mods:note type="noteAboutReproduction">Present</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<dmdSec ID="pageModsBib4">
+<mdWrap MDTYPE="MODS" LABEL="Page metadata">
+<xmlData>
+<mods:mods>
+<mods:part>
+<mods:extent unit="pages">
+<mods:start>4</mods:start>
+</mods:extent>
+</mods:part>
+<mods:relatedItem type="original">
+<mods:physicalDescription><mods:form type="microfilm" /></mods:physicalDescription>
+<mods:identifier type="reel number">00280654280</mods:identifier>
+<mods:identifier type="reel sequence number">190</mods:identifier>
+<mods:location>
+<mods:physicalLocation authority="marcorg" displayLabel="Library of Congress, Washington, DC">dlc</mods:physicalLocation>
+</mods:location>
+</mods:relatedItem>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+<mods:note type="noteAboutReproduction">Present</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<fileSec>
+<fileGrp ID="pageFileGrp1">
+<file ID="masterFile1" USE="master" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0187.tif"/>
+</file>
+<file ID="serviceFile1" USE="service" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0187.jp2"/>
+</file>
+<file ID="otherDerivativeFile1" USE="derivative" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0187.pdf"/>
+</file>
+<file ID="ocrFile1" USE="ocr" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0187.xml"/>
+</file>
+</fileGrp>
+</fileSec>
+<structMap xmlns:np="urn:library-of-congress:ndnp:mets:newspaper">
+<div TYPE="np:issue" DMDID="issueModsBib">
+<div TYPE="np:page" DMDID="pageModsBib1">
+<fptr FILEID="masterFile1" />
+<fptr FILEID="serviceFile1" />
+<fptr FILEID="otherDerivativeFile1" />
+<fptr FILEID="ocrFile1" />
+</div>
+</div>
+</structMap>
+</mets>

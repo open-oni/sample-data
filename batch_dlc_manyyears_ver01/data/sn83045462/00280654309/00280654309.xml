@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets TYPE="urn:library-of-congress:ndnp:mets:microfilmReel" PROFILE="urn:library-of-congress:mets:profiles:ndnp:microfilmReel:v1.4" LABEL="00280654309"   xmlns:mix="http://www.loc.gov/mix/" xmlns:ndnp="http://www.loc.gov/ndnp" xmlns:premis="http://www.loc.gov/standards/premis" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ ../schema/ndnpmets.v1-4.xsd http://www.loc.gov/mods/v3 ../schema/ndnpmods-3-1.xsd http://www.loc.gov/ndnp ../schema/ndnp.xsd http://www.loc.gov/standards/premis ../schema/object.xsd http://www.loc.gov/mix/ http://www.loc.gov/standards/mix/mix.xsd http://www.w3.org/2000/09/xmldsig# ../schema/xmldsig-core-schema.xsd">
+<metsHdr CREATEDATE="2012-12-12T10:30:29">
+<agent ROLE="CREATOR" TYPE="ORGANIZATION">
+<name>Library of Congress, Washington, DC</name>
+</agent>
+</metsHdr>
+<dmdSec ID="targetModsBib1">
+<mdWrap MDTYPE="MODS" LABEL="Tech Target metadata">
+<xmlData>
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Preservation Microfilm Scanner Target PMT1</mods:title>
+</mods:titleInfo>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<dmdSec ID="targetModsBib2">
+<mdWrap MDTYPE="MODS" LABEL="Tech Target metadata">
+<xmlData>
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Preservation Microfilm Scanner Target PMT1</mods:title>
+</mods:titleInfo>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<dmdSec ID="targetModsBib3">
+<mdWrap MDTYPE="MODS" LABEL="Tech Target metadata">
+<xmlData>
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Preservation Microfilm Scanner Target PMT1</mods:title>
+</mods:titleInfo>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<dmdSec ID="targetModsBib4">
+<mdWrap MDTYPE="MODS" LABEL="Tech Target metadata">
+<xmlData>
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Preservation Microfilm Scanner Target PMT1</mods:title>
+</mods:titleInfo>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<dmdSec ID="targetModsBib5">
+<mdWrap MDTYPE="MODS" LABEL="Tech Target metadata">
+<xmlData>
+<mods:mods>
+<mods:titleInfo>
+<mods:title>Preservation Microfilm Scanner Target PMT1</mods:title>
+</mods:titleInfo>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<dmdSec ID="targetModsBib6">
+<mdWrap MDTYPE="MODS" LABEL="Target metadata">
+<xmlData>
+<mods:mods>
+<mods:relatedItem type="original">
+<mods:physicalDescription><mods:form type="microfilm" /></mods:physicalDescription>
+<mods:identifier type="reel number">00280654309</mods:identifier>
+<mods:identifier type="reel sequence number">6</mods:identifier>
+<mods:location>
+<mods:physicalLocation authority="marcorg" displayLabel="Library of Congress, Washington, DC">dlc</mods:physicalLocation>
+</mods:location>
+</mods:relatedItem>
+<mods:note type="agencyResponsibleForReproduction" displayLabel="Library of Congress, Washington, DC">dlc</mods:note>
+</mods:mods>
+</xmlData>
+</mdWrap>
+</dmdSec>
+<amdSec>
+<techMD ID="reelTechMD">
+<mdWrap MDTYPE="OTHER" OTHERMDTYPE="NDNP Reel Technical Metadata" LABEL="NDNP technical metadata for microfilm reel">
+<xmlData>
+<ndnp:reelTechMD>
+<ndnp:titles>Evening star (Washington, D.C.)</ndnp:titles>
+<ndnp:startDate>1867-11-01</ndnp:startDate>
+<ndnp:endDate>1868-05-19</ndnp:endDate>
+<ndnp:position>1a</ndnp:position>
+<ndnp:reductionRatio>1:22</ndnp:reductionRatio>
+<ndnp:guideToContentsPresentFlag>true</ndnp:guideToContentsPresentFlag>
+<ndnp:guideToContentsString>The Evening Star, Washington, D.C., November 1, 1867 to May 19, 1868. Microfilmed by the Library of Congress Photoduplication Service</ndnp:guideToContentsString>
+<ndnp:looseLeavesFlag>true</ndnp:looseLeavesFlag>
+<ndnp:boundVolumeFlag>false</ndnp:boundVolumeFlag>
+<ndnp:dimensions>22x33 in.</ndnp:dimensions>
+<ndnp:pagesPerIssue>4</ndnp:pagesPerIssue>
+<ndnp:numberOfResolutionTargets>0</ndnp:numberOfResolutionTargets>
+</ndnp:reelTechMD>
+</xmlData>
+</mdWrap>
+</techMD>       
+</amdSec>
+<fileSec>
+<fileGrp ID="targetFileGrp1">
+<file ID="masterFile1" USE="master" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0001.tif"/>
+</file>
+<file ID="serviceFile1" USE="service" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0001.jp2"/>
+</file>
+<file ID="otherDerivativeFile1" USE="derivative" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0001.pdf"/>
+</file>
+<file ID="ocrFile1" USE="ocr" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0001.xml"/>
+</file>
+</fileGrp>
+<fileGrp ID="targetFileGrp2">
+<file ID="masterFile2" USE="master" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0002.tif"/>
+</file>
+<file ID="serviceFile2" USE="service" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0002.jp2"/>
+</file>
+<file ID="otherDerivativeFile2" USE="derivative" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0002.pdf"/>
+</file>
+<file ID="ocrFile2" USE="ocr" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0002.xml"/>
+</file>
+</fileGrp>
+<fileGrp ID="targetFileGrp3">
+<file ID="masterFile3" USE="master" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0003.tif"/>
+</file>
+<file ID="serviceFile3" USE="service" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0003.jp2"/>
+</file>
+<file ID="otherDerivativeFile3" USE="derivative" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0003.pdf"/>
+</file>
+<file ID="ocrFile3" USE="ocr" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0003.xml"/>
+</file>
+</fileGrp>
+<fileGrp ID="targetFileGrp4">
+<file ID="masterFile4" USE="master" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0004.tif"/>
+</file>
+<file ID="serviceFile4" USE="service" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0004.jp2"/>
+</file>
+<file ID="otherDerivativeFile4" USE="derivative" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0004.pdf"/>
+</file>
+<file ID="ocrFile4" USE="ocr" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0004.xml"/>
+</file>
+</fileGrp>
+<fileGrp ID="targetFileGrp5">
+<file ID="masterFile5" USE="master" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0005.tif"/>
+</file>
+<file ID="serviceFile5" USE="service" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0005.jp2"/>
+</file>
+<file ID="otherDerivativeFile5" USE="derivative" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0005.pdf"/>
+</file>
+<file ID="ocrFile5" USE="ocr" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0005.xml"/>
+</file>
+</fileGrp>
+<fileGrp ID="targetFileGrp6">
+<file ID="masterFile6" USE="master" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0006.tif"/>
+</file>
+<file ID="serviceFile6" USE="service" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0006.jp2"/>
+</file>
+<file ID="otherDerivativeFile6" USE="derivative" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0006.pdf"/>
+</file>
+<file ID="ocrFile6" USE="ocr" >
+<FLocat LOCTYPE="OTHER" OTHERLOCTYPE="file" xlink:href="./0006.xml"/>
+</file>
+</fileGrp>
+</fileSec>
+<structMap xmlns:np="urn:library-of-congress:ndnp:mets:newspaper">
+<div TYPE="np:reel" ADMID="reelTechMD">
+ <div TYPE="np:techtargetreel"> 
+  <div TYPE="np:target" DMDID="targetModsBib1">
+   <fptr FILEID="masterFile1" />
+   <fptr FILEID="serviceFile1" />
+   <fptr FILEID="otherDerivativeFile1" />
+   <fptr FILEID="ocrFile1" />
+  </div>                
+  <div TYPE="np:target" DMDID="targetModsBib2">
+   <fptr FILEID="masterFile2" />
+   <fptr FILEID="serviceFile2" />
+   <fptr FILEID="otherDerivativeFile2" />
+   <fptr FILEID="ocrFile2" />
+  </div>                
+  <div TYPE="np:target" DMDID="targetModsBib3">
+   <fptr FILEID="masterFile3" />
+   <fptr FILEID="serviceFile3" />
+   <fptr FILEID="otherDerivativeFile3" />
+   <fptr FILEID="ocrFile3" />
+  </div>                
+  <div TYPE="np:target" DMDID="targetModsBib4">
+   <fptr FILEID="masterFile4" />
+   <fptr FILEID="serviceFile4" />
+   <fptr FILEID="otherDerivativeFile4" />
+   <fptr FILEID="ocrFile4" />
+  </div>                
+  <div TYPE="np:target" DMDID="targetModsBib5">
+   <fptr FILEID="masterFile5" />
+   <fptr FILEID="serviceFile5" />
+   <fptr FILEID="otherDerivativeFile5" />
+   <fptr FILEID="ocrFile5" />
+  </div>                
+ </div>
+  <div TYPE="np:target" DMDID="targetModsBib6">
+   <fptr FILEID="masterFile6" />
+   <fptr FILEID="serviceFile6" />
+   <fptr FILEID="otherDerivativeFile6" />
+   <fptr FILEID="ocrFile6" />
+  </div>                
+ </div>
+</structMap>  
+</mets>
