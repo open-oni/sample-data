@@ -5,7 +5,7 @@ Small batches that can be used in development installations of Open ONI... and o
 ### Loading a Batch
 
 This repository is intended to be used with the [Open ONI](https://github.com/open-oni/open-oni) repository.
-The batches included in this repository are valid enough that they can be loaded into the software.  However, they are complete nor polished batches.
+The batches included in this repository are valid enough that they can be loaded into the software.  However, they are neither complete nor polished batches.
 
 Clone the repository.  Then, copy or move batches to your Open ONI `data/batches` directory (or the `docker/data` directory if you are using the docker setup).
 
@@ -23,8 +23,9 @@ If you are using docker development environment, please see the [docker](https:/
 
 | Name | Description | Language | Source |
 | --- | --- | --- | --- |
-| mnhi_german | 1 issue of 8 pages | German | [LoC](http://chroniclingamerica.loc.gov/batches/batch_mnhi_uhaul_ver01/) |
-| nbu_manyissues | 9 issues of 1 page | English | [LoC](http://chroniclingamerica.loc.gov/batches/batch_nbu_chadron_ver01/) |
+| dlc_manyyears | 1 issue and page from 15 different years | English | [dlc_leonberger](https://chroniclingamerica.loc.gov/batches/batch_dlc_leonberger_ver03) and [dlc_ixtl](https://chroniclingamerica.loc.gov/batches/batch_dlc_ixtl_ver01) |
+| mnhi_german | 1 issue of 8 pages | German | [mnhi_uhaul](https://chroniclingamerica.loc.gov/batches/batch_mnhi_uhaul_ver01) |
+| nbu_manyissues | 9 issues of 1 page | English | [nbu_chadron](https://chroniclingamerica.loc.gov/batches/batch_nbu_chadron_ver01) |
 
 ### env.tar.gz
 
