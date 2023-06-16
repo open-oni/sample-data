@@ -7,17 +7,30 @@ Small batches that can be used in development installations of Open ONI... and o
 This repository is intended to be used with the [Open ONI](https://github.com/open-oni/open-oni) repository.
 The batches included in this repository are valid enough that they can be loaded into the software.  However, they are neither complete nor polished batches.
 
-Clone the repository.  Then, copy or move batches to your Open ONI `data/batches` directory (or the `docker/data` directory if you are using the docker setup).
+Clone the repository.  Then, copy or move batches to your Open ONI `data/batches/` directory.
 
-From inside of the Open ONI app:
+Follow these commands to load the sample data into Open ONI (assuming it lives in `/opt/openoni` for a non-Docker deployment):
 
-```
+```bash
 cd /opt/openoni
-source /opt/openoni/ENV/bin/activate
-django-admin.py load_batch /batches/prefix_batchname/batch_prefix_name_ver01
+. /ENV/bin/activate
+./manage.py load_batch data/batches/batch_dlc_manyyears_ver01
+./manage.py load_batch data/batches/batch_mnhi_german_ver01
+./manage.py load_batch data/batches/batch_nbu_manyissues_ver01
 ```
 
-If you are using docker development environment, please see the [docker](https://github.com/open-oni/open-oni/wiki/Docker) wiki pages for instructions for loading a batch when using docker containers.
+For a Docker environment, run these commands:
+
+```bash
+docker compose up -d
+docker compose exec web /load_batch.sh batch_dlc_manyyears_ver01
+docker compose exec web /load_batch.sh batch_mnhi_german_ver01
+docker compose exec web /load_batch.sh batch_nbu_manyissues_ver01
+```
+
+See the [Docker Command Quick
+Reference](https://github.com/open-oni/open-oni/blob/dev/docs/advanced/docker-reference.md)
+for more help with Docker environment commands.
 
 ### Batch Description
 
