@@ -40,6 +40,6 @@ for more help with Docker environment commands.
 | mnhi_german | 1 issue of 8 pages | German | [mnhi_uhaul](https://chroniclingamerica.loc.gov/batches/batch_mnhi_uhaul_ver01) |
 | nbu_manyissues | 9 issues of 1 page | English | [nbu_chadron](https://chroniclingamerica.loc.gov/batches/batch_nbu_chadron_ver01) |
 
-### env.tar.gz
-
-If you're using our Docker setup but can't get the install working, it may be due to an inability to fetch dependencies.  Try removing your local ENV directory and extracting our `env.tar.gz` file.  This should provide a suitable base for using Docker.
+### Docker Troubleshooting
+If the Docker environment is giving you lots of trouble, you may want to
+[erase your environment and start fresh](https://github.com/open-oni/open-oni/blob/dev/docs/install/docker.md#erase-and-start-fresh)
