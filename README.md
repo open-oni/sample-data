@@ -2,6 +2,18 @@
 
 Small batches that can be used in development installations of Open ONI... and other miscellaneous files.
 
+Note that `batch_mnhi_german_ver01` now has emoji in the OCR XML
+of its first page, which requires ONI with UTF8 database fix:
+https://github.com/open-oni/open-oni/pull/612
+
+If one needs to test without emoji in the sample batches,
+check out [the last commit before the emoji were
+added](https://github.com/open-oni/sample-data/commit/67124a27510e81ff46436c58742e6e845a999536):
+
+```bash
+git checkout 67124a2
+```
+
 ### Loading a Batch
 
 This repository is intended to be used with the [Open ONI](https://github.com/open-oni/open-oni) repository.
